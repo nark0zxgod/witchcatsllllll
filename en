@@ -19026,8 +19026,7 @@ I bid you a splendid day!</string>
   <string name="$Cookie.2018.Profile">Ring Candy Cookie</string>
   <string name="$Cookie.2018.Frame">Ring Candy Cookie</string>
   <string name="$UX.Firstsaga.Open.Text01">A new story has been revealed!</string>
-  <string name="$UX.Firstsaga.Open.Text02">Tap the &lt;color=#1c48a1&gt;Select Mode&lt;/color&gt; button
-in the lobby to experience it!</string>
+  <string name="$UX.Firstsaga.Open.Text02">Tap the &lt;color=#1c48a1&gt;Select Mode&lt;/color&gt; button in the lobby to experience it!</string>
   <string name="$UX.Outgame.Newupdate">NEW!</string>
   <string name="$UX.CookiePuzzleChallenge.Open.Text01">Try a new set of puzzles!</string>
   <string name="$UX.NewCookie.Update.Text01">New Cookie!</string>
@@ -22511,8 +22510,8 @@ minded taking the loss herself...</string>
   <string name="$UX.OneMillionDoors.SingleGame.Desc10">1. Tap the Jellies to remove them.
 2. Clear them all to succeed!
 3. You have 4 attempts.</string>
-  <string name="$UX.OneMillionDoors.SingleGame.Desc11">1. Tap the screen to throw daggers at the spinning wheel.
-2. Embed all daggers shown on the left to succeed!
+  <string name="$UX.OneMillionDoors.SingleGame.Desc11">1. Tap the screen to throw daggers.
+2. Embed all daggers shown on the left.
 3. You have 4 attempts.</string>
   <string name="$UX.OneMillionDoors.SingleGame.Desc12">1. Memorize the order the jewels light up.
 2. Tap them in the same order to win!
@@ -22552,16 +22551,16 @@ Try next time!</string>
   <string name="$UX.OneMillionDoors.Zone.Title02">Quaking Mine</string>
   <string name="$UX.OneMillionDoors.Zone.Title03">Achoo! Yeti Gorge</string>
   <string name="$UX.OneMillionDoors.Zone.Title04">Unstable Flame Swamp</string>
-  <string name="$UX.OneMillionDoors.Zone.Title05">Final Doors</string>
+  <string name="$UX.OneMillionDoors.Zone.Title05">Final Door</string>
   <string name="$UX.OneMillionDoors.SectionList.Title01">Section List</string>
   <string name="$UX.OneMillionDoors.Zone.OpenMission2">Global Challenge: Unlock Zone 2!</string>
   <string name="$UX.OneMillionDoors.Zone.OpenMission3">Global Challenge: Unlock Zone 3!</string>
   <string name="$UX.OneMillionDoors.Zone.OpenMission4">Global Challenge: Unlock Zone 4!</string>
-  <string name="$UX.OneMillionDoors.Zone.OpenMission5">Final Doors: Open Missions</string>
+  <string name="$UX.OneMillionDoors.Zone.OpenMission5">Final Door: Open Missions</string>
   <string name="$UX.OneMillionDoors.Zone.OpenMission2.Desc">The missions will be revealed when the previous Zone has been opened.</string>
   <string name="$UX.OneMillionDoors.Zone.OpenMission3.Desc">The missions will be revealed when the previous Zone has been opened.</string>
   <string name="$UX.OneMillionDoors.Zone.OpenMission4.Desc">Open Zone 4 to
-reveal the Final Doors missions.</string>
+reveal the Final Door missions.</string>
   <string name="$UX.OneMillionDoors.Zone.OpenMission.Title">One Million Doors</string>
   <string name="$UX.OneMillionDoors.Zone.Open.Text01">The next Zone has been opened.</string>
   <string name="$UX.OneMillionDoors.Section.LockPopup01">Open Special Area</string>
@@ -22575,14 +22574,15 @@ Rewards</string>
   <string name="$UX.OneMillionDoors.DoorList.Number">Zone {0} - Section {1}</string>
   <string name="$UX.OneMillionDoors.Key.Use.PopupTitle01">Use Key</string>
   <string name="$UX.OneMillionDoors.Key.Use.Popup.Desc01">{0} will be used.</string>
-  <string name="$UX.OneMillionDoors.Key.Use.Popup.Desc02">You need {0} (x{1}).</string>
+  <string name="$UX.OneMillionDoors.Key.Use.Popup.Desc02">You need
+{0} (x{1}).</string>
   <string name="$UX.OneMillionDoors.Key.Use.Popup.Desc03">Collect Bronze Key</string>
   <string name="$UX.OneMillionDoors.Key.Use.Popup.Desc04">You need &lt;color=#F06012&gt;{0} more Bronze {0:sp:Key/Keys}&lt;/color&gt;. 
 Beat Levels to earn more!</string>
   <string name="$UX.OneMillionDoors.Key.Use.Popup.Desc05">Already completed.</string>
   <string name="$UX.OneMillionDoors.Unlock.Popup.Desc01">Open Lock</string>
-  <string name="$UX.OneMillionDoors.Unlock.Popup.Desc02">No locks to open.
-Try looking in another section.</string>
+  <string name="$UX.OneMillionDoors.Unlock.Popup.Desc02">No matching locks.
+Try another Section!</string>
   <string name="$UX.OneMillionDoors.Unlock.Popup.Desc03">Open Silver Doors to find Gold Keys.</string>
   <string name="$UX.OneMillionDoors.Unlock.Popup.Desc04">Open Bronze Doors to find Silver Keys.</string>
   <string name="$UX.OneMillionDoors.Normal.Key.Gold">Gold Key</string>
@@ -26799,10 +26799,13 @@ We will never forget you!</string>
   <string name="$UX.OneMillionDoors.FinalDoor.Credit.Desc02">Nickname</string>
   <string name="$UX.OneMillionDoors.FinalDoor.Credit.Desc03">Keys Used</string>
   <string name="$UX.OneMillionDoors.FinalDoor.Key.Name">Final Door\'s Key</string>
-  <string name="$UX.OneMillionDoors.FinalDoor.Key.Desc01">A key used to open the FInal Door.</string>
-  <string name="$UX.OneMillionDoors.FinalDoor.Guid01">Try opening the lock in &lt;color=#ffe50f&gt;Zone 4&lt;/color&gt;.</string>
-  <string name="$UX.OneMillionDoors.FinalDoor.Guid02">From here, you can obtain the &lt;color=#ffe50f&gt;Final Door\'s Key&lt;/color&gt;.</string>
-  <string name="$UX.OneMillionDoors.FinalDoor.Guid03">&lt;color=#ffe50f&gt;Use the key&lt;/color&gt; to open the Final Door.</string>
+  <string name="$UX.OneMillionDoors.FinalDoor.Key.Desc01">A key used to open the Final Door.</string>
+  <string name="$UX.OneMillionDoors.FinalDoor.Guid01">Try opening the locks 
+in &lt;color=#ffe50f&gt;Zone 4&lt;/color&gt;.</string>
+  <string name="$UX.OneMillionDoors.FinalDoor.Guid02">From here, you can obtain
+&lt;color=#ffe50f&gt;Final Door Keys&lt;/color&gt;.</string>
+  <string name="$UX.OneMillionDoors.FinalDoor.Guid03">&lt;color=#ffe50f&gt;Use the keys&lt;/color&gt;
+to open the Final Door.</string>
   <string name="$UX.OneMillionDoors.EventList.Sorting1">Rewarded</string>
   <string name="$UX.OneMillionDoors.EventList.Sorting2">Progress ▼</string>
   <string name="$UX.OneMillionDoors.EventList.Sorting3">Progress ▲</string>
@@ -26818,11 +26821,11 @@ Sweet treasures and Cookie friends await!</string>
   <string name="$Script_OneMillionDoors.Multi.Completion.Desc01">All participants have made it!
 The event has been successfully completed.</string>
   <string name="$Script_OneMillionDoors.Multi.Completion.Title01">Event Complete!</string>
-  <string name="$UX.OneMillionDoors.Ranking.Reward.Guid02">Open as many doors as you can.</string>
+  <string name="$UX.OneMillionDoors.Ranking.Reward.Guid02">Open as many doors
+as you can.</string>
   <string name="$UX.OneMillionDoors.Ranking.Reward.Guid03">Your ranking score increases with each door you open.</string>
   <string name="$UX.OneMillionDoors.Ranking.Reward.Guid04">Claim special rewards!</string>
-  <string name="$UX.OneMillionDoors.Ranking.Reward.Guid05">Wait! Different locks grant different amounts of points!
-Open a higher-grade lock to jump ahead in the rankings!</string>
+  <string name="$UX.OneMillionDoors.Ranking.Reward.Guid05">Different locks grant different amounts of points! Open higher-grade locks to jump ahead in the leaderboard!</string>
   <string name="$UX.OneMillionDoors.Ranking.Reward.Popup01">Rank</string>
   <string name="$UX.OneMillionDoors.Ranking.Reward.Popup02">Top {0}%</string>
   <string name="$UX.OneMillionDoors.FinalDoor.Mission.Title01">Open the Final Door</string>
@@ -26881,17 +26884,17 @@ Open a higher-grade lock to jump ahead in the rankings!</string>
   <string name="$UX.OneMillionDoors.Coupon.Store02">Wow! You found a 40% discount coupon for the CookieRun Store!</string>
   <string name="$UX.OneMillionDoors.Coupon.Store03">40% Off Your Purchase</string>
   <string name="$UX.OneMillionDoors.Coupon.Store04">Claim Discount Coupon</string>
-  <string name="$UX.OneMillionDoors.Coupon.Store05">If you cancel, you will not be able to receive this prize.</string>
+  <string name="$UX.OneMillionDoors.Coupon.Store05">If you cancel, you will not be able to receive this prize!!!</string>
   <string name="$UX.OneMillionDoors.Coupon.Store06">Are you sure you want to forfeit the prize?</string>
   <string name="$UX.OneMillionDoors.Coupon.Store07">You have forfeited the prize.</string>
-  <string name="$UX.OneMillionDoors.Coupon.Store08">Do Not Receive</string>
+  <string name="$UX.OneMillionDoors.Coupon.Store08">Cancel</string>
   <string name="$UX.OneMillionDoors.Coupon.Store09">Claim Coupon</string>
   <string name="$UX.OneMillionDoors.GlobalMessage.ZoneOpen">Zone &lt;color=#fdf987&gt;{0}&lt;/color&gt; has been opened! Join the One Million Doors event and explore the new zone!</string>
   <string name="$UX.OneMillionDoors.GlobalMessage.FinalGateClear">The Final Door in One Million Doors has been opened! Check out the list of contributors!</string>
   <string name="$UX.OneMillionDoors.GlobalMessage.Getitem">&lt;color=#d496ff&gt;{0}&lt;/color&gt; found a &lt;color=#a8ff00&gt;{1}&lt;/color&gt; in Section &lt;color=#fdf987&gt;{2}&lt;/color&gt;!</string>
-  <string name="$UX.OneMillionDoors.GlobalMessage.GetCookieCollection">&lt;color=#d496ff&gt;{0}&lt;/color&gt; has collected the &lt;color=#ffad87&gt;{1}&lt;/color&gt; Collection!</string>
-  <string name="$UX.OneMillionDoors.GlobalMessage.GetTrialSuccess">&lt;color=#d496ff&gt;{0}&lt;/color&gt; has completed &lt;color=#ffad87&gt;{2}&lt;/color&gt;\'s Trial in Section &lt;color=#fdf987&gt;{1}&lt;/color&gt;!</string>
-  <string name="$UX.OneMillionDoors.GlobalMessage.GetFindTheDifference">&lt;color=#d496ff&gt;{0}&lt;/color&gt; has completed &lt;color=#ffad87&gt;{2}&lt;/color&gt;\'s Spot the Difference in Section &lt;color=#fdf987&gt;{1}&lt;/color&gt;!</string>
+  <string name="$UX.OneMillionDoors.GlobalMessage.GetCookieCollection">&lt;color=#d496ff&gt;{0}&lt;/color&gt; has completed the &lt;color=#ffad87&gt;{1}&lt;/color&gt; Collection!</string>
+  <string name="$UX.OneMillionDoors.GlobalMessage.GetTrialSuccess">&lt;color=#d496ff&gt;{0}&lt;/color&gt; has completed &lt;color=#ffad87&gt;{2}&lt;/color&gt; in Section &lt;color=#fdf987&gt;{1}&lt;/color&gt;!</string>
+  <string name="$UX.OneMillionDoors.GlobalMessage.GetFindTheDifference">&lt;color=#d496ff&gt;{0}&lt;/color&gt; has completed &lt;color=#ffad87&gt;{2}&lt;/color&gt; in Section &lt;color=#fdf987&gt;{1}&lt;/color&gt;!</string>
   <string name="$UX.OneMillionDoors.Coupon.NormalReward.Title">REWARD!</string>
   <string name="$UX.OneMillionDoors.SpecialReward.Title">Special Rewards</string>
   <string name="$UX.OneMillionDoors.SpecialReward.Desc">Check out the special goodies that vary with each zone.</string>
@@ -26945,8 +26948,7 @@ Please wait for the next Season!</string>
   <string name="$UX.OneMillionDoors.MiniMap.Speech04">Go ahead and pick a door you want to open.</string>
   <string name="$UX.OneMillionDoors.MiniMap.Speech05">Choose where you want to begin.</string>
   <string name="$UX.OneMillionDoors.Mission.Title">Explorer Missions!</string>
-  <string name="$UX.OneMillionDoors.Mission.SubTitle">The more doors you open,
-the more keys rewards you get!</string>
+  <string name="$UX.OneMillionDoors.Mission.SubTitle">Key rewards await!</string>
   <string name="$UX.OneMillionDoors.Mission.AllKey">Use {0} {0:sp:Key/Keys}</string>
   <string name="$UX.OneMillionDoors.Mission.BronzeKey">Use {0} Bronze {0:sp:Key/Keys}</string>
   <string name="$UX.OneMillionDoors.Mission.SilverKey">Use {0} Silver {0:sp:Key/Keys}</string>
@@ -26990,8 +26992,8 @@ You\'re now ready to explore the Witch\'s One Million Doors!</string>
   <string name="$UX.OneMillionDoors.ZoneOpenMission.CountCookieMeet">Meet {0} {0:sp:Cookie/Cookies}</string>
   <string name="$UX.OneMillionDoors.ZoneOpenMission.CountTrialLevelClear">Complete {0} {0:sp:Trial/Trials}</string>
   <string name="$UX.OneMillionDoors.ZoneOpenMission.CountFindDifferenceClear">Beat Spot the Difference {0} {0:sp:time/times}</string>
-  <string name="$UX.OneMillionDoors.Coupon.Product.Tite">Physical Prize Winner</string>
-  <string name="$UX.OneMillionDoors.Coupon.Product.Txt1">[CookieRun Store] CookieRun: Witch\'s Castle</string>
+  <string name="$UX.OneMillionDoors.Coupon.Product.Tite">WINNER!</string>
+  <string name="$UX.OneMillionDoors.Coupon.Product.Txt1">[CookieRun Store] Witch\'s Castle</string>
   <string name="$UX.OneMillionDoors.Coupon.Product.Txt2">Your prize is a {0}!
 Please enter your shipping information.</string>
   <string name="$UX.OneMillionDoors.Coupon.Product.Txt3">Enter Shipping Information</string>
@@ -27462,7 +27464,7 @@ Please enter your shipping information.</string>
   <string name="$Script_OneMillionDoors.Timekeeper.Future.Title.099">Dolls\' Dressing Room</string>
   <string name="$Script_OneMillionDoors.Timekeeper.Future.Title.100">Heavenly Choir</string>
   <string name="$Script_OneMillionDoors.Timekeeper.Future.Dialogue.001_1">Ginger... Brave... Now that\'s a name I\'ve not heard in a long time. A long time...!</string>
-  <string name="$Script_OneMillionDoors.Timekeeper.Future.Dialogue.001_2">It\'s nice being called a hero, but it feels good to be called by that name.</string>
+  <string name="$Script_OneMillionDoors.Timekeeper.Future.Dialogue.001_2">It\'s nice being called a hero, but it feels good to be called by that name again.</string>
   <string name="$Script_OneMillionDoors.Timekeeper.Future.Dialogue.001_3">May you never lose the courage within your dough, my friend. Not now, not ever!</string>
   <string name="$Script_OneMillionDoors.Timekeeper.Future.Dialogue.002_1">Uh-oh...! The logout button just disappeared...!</string>
   <string name="$Script_OneMillionDoors.Timekeeper.Future.Dialogue.002_2">I\'m... I\'m not going to hide under this hood anymore...</string>
@@ -28072,7 +28074,7 @@ Salt: Ah... I see.</string>
   <string name="$Saga.06.Ch01.SQ2">The Scale of Good and Evil</string>
   <string name="$Saga.06.Ch01.SQ3">Assistants to the Supervisor of Records</string>
   <string name="$Saga.06.Ch01.SQ4">Conspiracy of the Persecuted</string>
-  <string name="$Saga.06.Ch02">Beneath the Scales of Absolute Truth</string>
+  <string name="$Saga.06.Ch02">In the Face of Absolute Truth</string>
   <string name="$Saga.06.Ch02.SQ1">Is Saffron Cookie Guilty?</string>
   <string name="$Saga.06.Ch02.SQ2">Behind the Truth</string>
   <string name="$Saga.06.Ch02.SQ3">The Weight of Contradiction</string>
@@ -28087,11 +28089,11 @@ Salt: Ah... I see.</string>
   <string name="$Saga.06.Ch04.SQ2">A Moment Worth Reconsidering</string>
   <string name="$Saga.06.Ch04.SQ3">Weighing What Must be Weighed</string>
   <string name="$Saga.06.Ch04.SQ4">Fate is in Your Hands</string>
-  <string name="$Saga06_Ch1_sq1.Summary">Outside the Court of Judgment, Saffron Cookie\'s speech is in full swing. She has built a reputation for sharing what she calls the truth of the Cookie world, and her words are so captivating, so logical, that more and more Cookies find themselves drawn to her speeches with each passing day.
+  <string name="$Saga06_Ch1_sq1.Summary">The Court of Judgment bustles with another day of trials and verdicts. Outside its doors, a rally led by Saffron Cookie is in full swing. She has earned a reputation for sharing what she calls the truth of the Cookie world.
 
-Many Cookies who heard her speak have set off on a journey... But none have returned.
+With each passing day, more and more Cookies find themselves drawn to listen. Many Cookies who heard her speak have set off on a journey... but none have returned. 
 
-Meanwhile, the courtroom is as busy as ever. The trials of Choco Gold Cookie and Roasted Salt Cookie have just wrapped up with the scales delivering a fair and fitting verdict as always. Just as everyone begins to breathe a sigh of relief at the scales\' unwavering delivery of justice, the next case is called... The trial of Saffron Cookie begins.</string>
+Inside the courtroom, the trials of Choco Gold Cookie and Roasted Salt Cookie proceed in turn, each met with a fair and fitting verdict from the impartial Scale of Good and Evil. Then, at laste, the trial of Saffron Cookie begins.</string>
   <string name="$Saga06_Ch1_sq2.Summary">The trial of Saffron Cookie is now underway. At the heart of the case: is Saffron Cookie responsible for the growing number of Cookies who have vanished? Saffron Cookie\'s defense is as calm as it is unsettling... She claims she did nothing more than speak at her gatherings, that she never abducted or confined anyone, and that every Cookie who left did so of their own free will. And if that is true, she argues, there is no crime to charge her with.
 
 She goes even further, questioning whether the scales are even capable of weighing something like this, and whether if a court that cannot answer this question has any right to be passing judgment at all.
@@ -28113,7 +28115,7 @@ What could this mean? Is she being manipulated? Is Saffron Cookie, herself, also
 The moment the dome is shattered, a vision surfaces... hazy, dreamlike, belonging to no one and everyone at once.</string>
   <string name="$Saga06_Ch3_sq2.Summary">What surfaced was a memory... First Salt Cookie and First Sugar, back in their days as witches, weaving magic into a shimmering light that looked just like a Soul Jam. They believed the Cookies needed a Hero, and they had set out to make one themselves.
 
-But there was no time to make sense of this vision of the past. While the twins reel in confusion, the Shadow Witch\'s hand closes around the Cookie of the First Batch... and vanishes.
+But there was no time to make sense of this vision of the past. While the two reel in confusion, the Shadow Witch\'s hand closes around the Cookie of the First Batch... and vanishes.
 
 The Court of Judgment stands in ruins, paralyzed and unable to proceed with the trial.</string>
   <string name="$Saga06_Ch3_sq3.Summary">The truth begins to take shape and reveal itself. Saffron Cookie\'s teachings lured Cookies to the First Oven. The Shadow Witch, drawn by the spectacle, seized the opportunity to take the Cookie of the First Batch herself. To Saffron Cookie, this was proof that First Egg Cookie would soon have the First Batcher in hand. As for those who followed her teachings, they had taken one step closer to the truth.
@@ -28123,8 +28125,8 @@ She believes it still... even as First Egg Cookie never came for her.</string>
   <string name="$Saga06_Ch4_sq1.Summary">GingerBrave and our heroes declare they will not give up until they find and rescue the kidnapped First Batcher. They set off once more on their already long journey.</string>
   <string name="$Saga06_Ch4_sq2.Summary">Alone in the wreckage, First Salt Cookie and First Sugar Cookie walk slowly through what remains of the courtroom. With the chaos finally stilled, the memories come back in somewhat clearer fragments.
 
-In their past human forms, First Cream Cookie reaching out to them, asking them to come along. First Egg Cookie and First Cream Cookie at odds, their disagreement sharp and unresolved. And then the moment that set everything in motion... the twins, quietly determined to give the Cookies a Hero, gazing at the Soul Jams the witches had forged first, and making a decision... \"We will make one too\".</string>
-  <string name="$Saga06_Ch4_sq3.Summary">And so, the twins talk. They had once baked Cookies with purpose, creators who looked down upon the world they helped shape. But now that they themselves are Cookies as well, they realize it does not feel so different from the human world they left behind. Good and evil remain blurred at the edges. Even sweetness carries a trace of bitterness in every grain of flour.
+In their past human forms, First Cream Cookie reaching out to them, asking them to come along. First Egg Cookie and First Cream Cookie at odds, their disagreement sharp and unresolved. And then the moment that set everything in motion... the two quietly determined to give the Cookies a Hero, gazing at the Soul Jams the witches had forged first, and making a decision... \"We will make one too\".</string>
+  <string name="$Saga06_Ch4_sq3.Summary">And so, the sisters talk. They had once baked Cookies with purpose, creators who looked down upon the world they helped shape. But now that they themselves are Cookies as well, they realize it does not feel so different from the human world they left behind. Good and evil remain blurred at the edges. Even sweetness carries a trace of bitterness in every grain of flour.
 
 In the quiet of the ruined courtroom, they take turns pondering over everything slowly. Have the verdicts they\'ve delivered, the criminals they\'ve judged and confined, and their decisions in the Court of Judgment truly contributed to making the Cookie World more beautiful?
 
@@ -28133,9 +28135,9 @@ They weigh their actions, both goodwill and neglect, on the scales and watch.
 In the end... they finally understand. No one can save every world. And not everything can be neatly divided into black and white, guilty and innocent.</string>
   <string name="$Saga06_Ch4_sq4.Summary">The two accept the limits of the ideal world they have built. They had been denied by their own creation, the scales, and there was no longer any way to deny the limits that came with it.
 
-The twins decide the wisest course of action is to longer interfere. The more they become involved, the more the world the Cookies have built may crumble. As they were once human, they will take a step back and let the will of Cookies reign free... The Cookies\' world and fate are to be shaped by their own hands.
+First Salt Cookie &amp; First Sugar Cookie decide the wisest course of action is to longer interfere. The more they become involved, the more the world the Cookies have built may crumble. As they were once human, they will take a step back and let the will of Cookies reign free... The Cookies\' world and fate are to be shaped by their own hands.
 
-And with that, everything is settled. Though the twins declare they may not be able to escape the castle entirely, they know they must no longer confine themselves to the courtroom. They look back at the courtroom one last time. Cracks run through every wall and surface, threatening to come apart at any moment. For too long, they have stood in this place, weighing good and evil.
+And with that, everything is settled. Though the two declare they may not be able to escape the castle entirely, they know they must no longer confine themselves to the courtroom. They look back at the courtroom one last time. Cracks run through every wall and surface, threatening to come apart at any moment. For too long, they have stood in this place, weighing good and evil.
 
 Finally, the step outside... carefully, quietly. For the first, they have crossed beyond the boundaries of their own domain to see the real world with their own eyes. Behind them, the close the courtroom door shut, its hinges barely hanging. The two of them walk toward a world they\'ve never truly seen...</string>
   <string name="$Cookie.2030">Saffron Cookie</string>
@@ -28163,10 +28165,10 @@ Special Key</string>
   <string name="$UX.OneMillionDoors.Transferfound.Title">Hidden portal discovered!</string>
   <string name="$UX.OneMillionDoors.Transferfound.Txt1">Congratulations!</string>
   <string name="$UX.OneMillionDoors.Transferfound.Txt2">&lt;color=#d496ff&gt;{0}&lt;/color&gt; is the first-ever to discover &lt;color=#fdf987&gt;Section {1}&lt;/color&gt;!</string>
-  <string name="$UX.OneMillionDoors.FindDifference.Text01">Spot the different picture!</string>
+  <string name="$UX.OneMillionDoors.FindDifference.Text01">Spot the differences!</string>
   <string name="$UX.OneMillionDoors.Timekeeper.Select">Make your choice!</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_1">My dear Cookies, is our crispiness truly eternal? Can our fragile, doughy forms last forever?</string>
-  <string name="$Script_SAGA06_CH1_SQ1_POR1_2">Whoa! There\'s a huge crowd over here! Hey, what\'s going on?</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_2">Whoa! There\'s a huge crowd in here! I wonder what\'s going on?</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_3">Hm? You don\'t know? That\'s Saffron Cookie! She\'s been summoned to court today just for sharing the truth! The Cookies who hear her words find the courage to leave for a haven of peace!</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_4">Ah... Saffron Cookie... I feel like my dough\'s gone staler than yesterday... In the end, I will crumble someday, won\'t I?</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_5">Poor soul... that is the law of this world. Of our existence. But fear not, my friend.</string>
@@ -28181,27 +28183,27 @@ Special Key</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_14">Order! Everyone, please be quiet!</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_15">Haha! I never once stepped outside the law, so how could I possibly be guilty? This is all just jealousy over my gold dust, I\'m telling you.</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_16">Pipe down, you slimy loan shark! Even if you walk free, I\'ll never forgive you!!!</string>
-  <string name="$Script_SAGA06_CH1_SQ1_POR1_17">I apologize. If only I had my license when I treated... maybe that Cookie would not have crumbled...</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_17">I apologize. If only I... *Sigh* Maybe that Cookie would not have crumbled...if I still had my medical license...</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_18">No, doctor! Treatment was the right thing to do, and it was perfectly fine! Licensed or not, you were the only one who helped us! You are our doctor!!!</string>
-  <string name="$Script_SAGA06_CH1_SQ1_POR1_19">Yikes...! Is the courtroom always this loud?</string>
-  <string name="$Script_SAGA06_CH1_SQ1_POR1_20">At this rate... I\'m going to lose my hearing before we even find the First Batcher here...!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_19">Yikes...! Everything\'s so complicated and... overwhelming! How are we supposed to find the Cookie of the First Batch in a place like this?!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_20">We haven\'t even started looking yet, but... my head is already spinning...!</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_21">ORDER! Anyone who dares make a scene before the Scale of Good and Evil will be charged with contempt of court!</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_22">Eeep...!</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_23">... First Salt Cookie, First Sugar Cookie. Please resume the trial.</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_24">Very well. Now... the verdict.</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_25">Alright! First up... Choco Gold Cookie!</string>
-  <string name="$Script_SAGA06_CH1_SQ1_POR1_27">GUILTY! The terms of the contract were honored to the letter, yes, but the suffering inflicted upon so many Cookies weighs heavily on the scales! The scales have spoken!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_27">GUILTY! The terms of the contract were honored to the letter, yes, but the suffering inflicted upon so many Cookies weighs heavily! The scales have spoken!</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_28">Wh-WHAT?! The scales can weigh something like THAT?!</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_29">Next. Roasted Salt Cookie.</string>
-  <string name="$Script_SAGA06_CH1_SQ1_POR1_31">Your unlicensed medical practice has been confirmed, but considering the urgent action required to save a life... This court sentences you to pay a fine and serve three days of community service.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_31">Nothing changes the fact that you are practicing medicine without a license. But considering the urgent action required to save a life... This court sentences you to pay a fine and serve three days of community service.</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_32">Oh...! Thank you, thank you so much!</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_33">So that\'s the Scale of Good and Evil! Incredible...! It weighs not just the law, but everything involved in any case!</string>
-  <string name="$Script_SAGA06_CH1_SQ1_POR1_34">Shh, Wizard Cookie! We\'re gonna get thrown out if you keep yelling like that...!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_34">Shh, Wizard Cookie! We\'re gonna get thrown out if you keep talking...!</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_35">Alrighty...! So then, who\'s next?</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_36">Next is the trial of Saffron Cookie...!</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_38">What a beautiful scale... But can that little toy truly measure the weight of truth?</string>
   <string name="$Script_SAGA06_CH1_SQ1_POR1_39">... Let us begin. The trial on the charges of causing numerous Cookies to go missing.</string>
-  <string name="$Script_SAGA06_CH1_SQ2_POR1_1">Defendant Saffron Cookie. Dozens of Cookies have gone missing in recent times. Every one of them was last seen attending the defendant\'s gatherings before they vanished.</string>
+  <string name="$Script_SAGA06_CH1_SQ2_POR1_1">Defendant: Saffron Cookie. Dozens of Cookies have gone missing in recent times. Every one of them was last seen attending the defendant\'s gatherings before they vanished.</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_2">It has been alleged that the defendant has confined them or abducted them to an undisclosed location.</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_3">I see. Shall we hear from the accused herself about these allegations?</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_4">Confinement? Abduction? I have never once laid a hand on any of them.</string>
@@ -28211,7 +28213,7 @@ Special Key</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_8">Souls who have faced and seen the truth can no longer endure the soggy weight of reality... Thus, they seek out the flame on their own.</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_9">How could leading them there be counted as a sin? If anything, guiding their souls to salvation should be rewarded.</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_10">I mean, when you put it that way... If she didn\'t drag anyone by force, is it really a crime?</string>
-  <string name="$Script_SAGA06_CH1_SQ2_POR1_11">They all vanished without a trace? No one knows if they\'re alive! Her behavior... It\'s equal to incitement.</string>
+  <string name="$Script_SAGA06_CH1_SQ2_POR1_11">But they all vanished without a trace and no one knows if they\'re alive! Her behavior... It\'s equal to incitement.</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_12">......</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_13">See here. Even the great scale hesitates. It has not tipped to either side.</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_14">How much does the will drawn forth from a pure heart weigh? Can the scales truly measure the worth and weight of goodwill aimed at saving a soul?</string>
@@ -28225,43 +28227,105 @@ Special Key</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_22">Could that be the Cookie of the First Batch? Oh... W-W-Wait...!</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_23">S-Stop pushing...!</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_24">Ow, ow, ow! Wizard Cookie...! We fell flat on our faces...! Why did you keep shoving us?!</string>
-  <string name="$Script_SAGA06_CH1_SQ2_POR1_25">Whoops, sorry. I was just trying to get a better look at the dome up there, and I just...</string>
+  <string name="$Script_SAGA06_CH1_SQ2_POR1_25">Whoops, sorry. I was just trying to get a better look at the shadow reflected onto the glass up there...</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_26">Silence! How dare anyone cause a commotion in this sacred courtroom!</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_27">My, my... Quite the rowdy guests. Have they lost their way, I wonder?</string>
-  <string name="$Script_SAGA06_CH1_SQ2_POR1_28">Psst... Hey, First Salt Cookie. Did you catch that? They were trying to get a closer look at the dome. Do you think they\'re after...?</string>
+  <string name="$Script_SAGA06_CH1_SQ2_POR1_28">Hm? What\'s with all the commotion?</string>
   <string name="$Script_SAGA06_CH1_SQ2_POR1_29">For now... This trial is suspended.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_1">First Salt Cookie! First Sugar Cookie! I demand these outsiders be charged with contempt of court!</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_2">I\'ll have them dragged to the Sugar Glass Dome this instant!</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_3">Wait, wait! We\'re not trying to stir up any trouble on purpose!</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_4">That\'s right...! We\'re just... trying to find a Cookie of the First Batch...</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_5">No excuses! Disrupting this court is a crime most serious, and you will serve your sentence in the Sugar Glass Dome!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_1">Your Honors! I demand these
+outsiders be charged with
+contempt of court!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_2">I\'ll have them dragged
+to the Sugar Glass Dome
+this instant!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_3">Wait, wait!
+We\'re not trying to
+stir up any trouble!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_4">That\'s right...!
+We\'re just... trying to find
+a Cookie of the First-</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_5">Disrupting this court is a
+crime most serious, and
+you will serve your sentence!</string>
   <string name="$Script_SAGA06_CH1_SQ3_POR1_6">... Objection.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_7">If it\'s true they had no ill intent, perhaps a different sentencing would be more appropriate.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_8">Candy Chain Cookie! Managing order in this court is MY job!</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_9">It would be a waste of time and resources to detain Cookies unrelated to this trial!</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_10">... We\'re already short-staffed as it is!</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_11">Your Honors, Saffron Cookie\'s case alone has the Records Department already pushed to the breaking point.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_12">Please consider my alternative. Assign these sturdy-looking outsiders as my temporary assistants. I\'m begging you!</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_13">Well... It did sort of look like they just tripped and fell... Seems a bit much to lock them up for clumsiness.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_14">Sending them to the Sugar Glass Dome does seem excessive...</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_15">Alrighty! You there! The disruptive clumsy ones!</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_16">... You shall be given the chance to repay the court for the... minor uproar.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_17">Until the conclusion of Saffron Cookie\'s trial, you are to serve as temporary assistants to the Supervisor of Records, Candy Chain Cookie.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_18">With that settled...! This trial will resume tomorrow at the same time!</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_19">Heh... Do treat carefully as you continue your investigations. The truth runs far hotter than one might expect.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_20">Saffron Cookie! You are to remain in the Sugar Glass Dome until the trial resumes.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_21">PHEW! That was close... Thanks for saving us!</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_22">Do not celebrate just yet. By the time you\'re done preparing for the upcoming trials, you just may beg to get sent to the dome.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_23">You have nothing to worry about! Research and investigation are just up my alley. So... Where do we start?</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_24">Follow me. We must first look into the list of Cookies who attended Saffron Cookie\'s public speeches and trace their every step.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_25">Just hearing that makes it sound like... an enormous amount of work...</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_26">Hey, that gathering we saw earlier before the trial... The way it looked, it kinda sounds like everyone would just say they left on their own.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_27">That\'s exactly the predicament we face. Most of the missing Cookies disappeared of their own accord after the gatherings had ended.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_28">Does it not strike you as strange? Vanishing without a single word, not even a note, to family or friends?</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_29">So we need to uncover the truth buried underneath all this. Saffron Cookie\'s so-called \"truth\"!</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_30">Indeed. Your task is to find out exactly what kind of \"truth\" Saffron Cookie used to reel them all in.</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_31">Very well! Let\'s dig in, crack this puzzle, and prove ourselves! And once we\'ve shown everyone what we\'re made of...</string>
-  <string name="$Script_SAGA06_CH1_SQ3_POR1_32">We can go straight to First Salt Cookie and First Sugar Cookie and ask them everything they know about the Cookies of the First Batch!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_7">If they had no ill intent,
+perhaps a different
+sentence instead?</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_8">Candy Chain Cookie!
+Managing order in
+this court is MY job!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_9">It is a waste of time and
+resources to detain Cookies
+unrelated to this trial!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_10">... And we\'re already
+short-staffed as it is!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_11">The recent string of
+cases has pushed the
+Records Department
+to the breaking point.</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_12">Please consider assigning
+these Cookies as temporary
+assistants. I\'m begging you!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_13">Well... it did look like they
+just tripped and fell...</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_14">It does seem
+excessive to lock them
+up for being clumsy.</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_15">Alrighty! You there!
+The disruptive
+clumsy ones!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_16">You shall be given the
+chance to repay the court
+for the... minor disturbance.</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_17">Until the conclusion of
+this trial, you are to serve
+as temporary assistants!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_18">With that settled...!
+This trial will resume
+tomorrow at the same time!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_19">Tread carefully during
+your investigations. The truth runs
+far hotter than one might expect.</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_20">Saffron Cookie! You are to
+remain in the Sugar Glass Dome
+until the trial resumes.</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_21">PHEW!
+That was close...
+Thanks for saving us!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_22">Do not celebrate just yet. By the
+time you\'re done, you just may
+beg to get sent to the dome.</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_23">Don\'t worry! Research and
+investigation are just up my alley.
+So... Where do we start?</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_24">We must first look into the
+list of Cookies who attended
+her public speeches and
+trace their every step.</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_25">Just hearing that makes it sound like...
+an enormous amount of work...</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_26">That gathering we saw earlier...
+The way it looked, it kinda sounds
+like everyone would just
+say they left on their own.</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_27">Exactly. Most of the missing
+Cookies disappeared of their
+own accord after the gatherings.</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_28">Does it not strike you as strange?
+Vanishing without a single word,
+not even a note, to family or friends?</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_29">So we need to uncover
+the truth buried underneath all this.
+Saffron Cookie\'s so-called \"truth\"!</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_30">Indeed. You must find out
+what kind of \"truth\" she
+used to reel them all in.</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_31">Very well! Let\'s dig in, crack
+this puzzle, and prove ourselves!
+And then...</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_32">We can go straight to First Salt
+Cookie and First Sugar Cookie
+and ask them about the First Batcher!</string>
   <string name="$Script_SAGA06_CH1_SQ3_CUT1_1">Madam Saffron Cookie... forced to stay in the Sugar Glass Dome? But... she didn\'t do anything wrong...</string>
   <string name="$Script_SAGA06_CH1_SQ3_CUT1_2">Everyone, step back! The defendant is being escorted!</string>
   <string name="$Script_SAGA06_CH1_SQ3_CUT1_3">Persecuted for just speaking the truth... This is so unfair...</string>
@@ -28283,25 +28347,25 @@ Madam Saffron Cookie...</string>
   <string name="$Script_SAGA06_CH1_SQ3_CUT1_18">Until we meet again, please take good care of yourself, Madam Saffron Cookie!</string>
   <string name="$Script_SAGA06_CH1_SQ3_CUT1_19">Walk with the Absolute, my friends.</string>
   <string name="$Script_SAGA06_CH1_SQ3_CUT1_20">Done chatting? Good. Time to move!</string>
-  <string name="$Script_SAGA06_CH1_SQ3_CUT1_21">... And now, we shall see how long the scales can hold before something far beyond its reckoning arrives.</string>
+  <string name="$Script_SAGA06_CH1_SQ3_CUT1_21">... And now, we shall see how long the scales can hold before something far beyond its meager power arrives.</string>
   <string name="$Script_SAGA06_CH1_SQ3_CUT1_22">Huh? Did you say something?</string>
   <string name="$Script_SAGA06_CH1_SQ3_CUT1_23">Heh... It was merely a thought spoken out loud.</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_1">What do you think, First Sugar Cookie? Do you believe those Cookies will manage to bring us any proper, infallible evidence?</string>
-  <string name="$Script_SAGA06_CH2_SQ1_POR1_2">Hm, honestly? I\'m not really sure!</string>
-  <string name="$Script_SAGA06_CH2_SQ1_POR1_3">But something about this trial feels different from everything we\'ve handled before. Or is it just me?</string>
+  <string name="$Script_SAGA06_CH2_SQ1_POR1_2">Who knows! But there\'s a spark of genuine purpose in them that I find pretty interesting!</string>
+  <string name="$Script_SAGA06_CH2_SQ1_POR1_3">Say... Do you feel like something about this trial feels different from everything we\'ve handled before? Or is it just me?</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_4">No, it does feel different. Whatever is hidden here, it runs along a different path than the good and evil we are familiar with weighing.</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_5">You know... I wonder! Could it be connected to something from... long ago?</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_6">... Hm.</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_7">Your Honors. First Salt Cookie, First Sugar Cookie.</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_8">The defendant, witnesses, the Supervisor of Records and his \"assistants\", and the Overseer of the Isolation Ward are all seated and ready...!</string>
-  <string name="$Script_SAGA06_CH2_SQ1_POR1_9">Oh? The overseer is present as well? They break down often enough as it is...</string>
+  <string name="$Script_SAGA06_CH2_SQ1_POR1_9">Oh? The overseer is present as well? Were they not currently undergoing repairs?</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_10">Clarification. In the event the trial concludes with a guilty verdict... Directive: immediate escort of the convicted to the Sugar Glass Dome. Optional? No, required.</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_11">Yes, yes, we know! Alrighty, please take a seat in the gallery for now, overseer.</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_12">Acknowledged. Proceeding to... gallery, empty seat. Initiating movement.</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_13">Let\'s get this trial back on track!</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_14">The defendant\'s argument concluded before we adjourned, so the next order of business shall be cross-examination.</string>
-  <string name="$Script_SAGA06_CH2_SQ1_POR1_15">Candy Chain Cookie. Are you ready to proceed with your cross-examination?</string>
-  <string name="$Script_SAGA06_CH2_SQ1_POR1_16">Yes, Your Honors. The temporary assistants you have assigned to me have managed to secure witness\' testimonies. I shall have them present their findings directly.</string>
+  <string name="$Script_SAGA06_CH2_SQ1_POR1_15">Candy Chain Cookie. Are you ready to proceed?</string>
+  <string name="$Script_SAGA06_CH2_SQ1_POR1_16">Yes, Your Honors. The temporary assistants you have assigned to me have managed to secure witness testimonies. I shall have them present their findings directly.</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_17">We tracked down someone who attended one of Saffron Cookie\'s speeches before the trial! The witness is here with us!</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_18">Allow me to introduce... Zero Sugar Cookie! He\'ll explain everything!</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_19">Hya hyem! I attended one of that Cookie\'s big speeches out of curiosity! I\'m telling ya, she said some really remarkable stuff.</string>
@@ -28309,31 +28373,31 @@ Madam Saffron Cookie...</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_21">The way she described this \"haven\"... it sounded exactly like the oven. You know the one, right? The one everyone whispers about! Ain\'t that scary?</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_22">*GASP!*
 So Saffron Cookie... really sent everyone to their...</string>
-  <string name="$Script_SAGA06_CH2_SQ1_POR1_23">The Cookies who never came back must\'ve walked straight into the oven on their own two feet...</string>
-  <string name="$Script_SAGA06_CH2_SQ1_POR1_24">Hold it! \"Must\'ve\"? Without solid evidence, that\'s nothing more than speculation.</string>
-  <string name="$Script_SAGA06_CH2_SQ1_POR1_25">And the one presenting himself as a witness happens to be someone this very court once convicted of fraud...</string>
+  <string name="$Script_SAGA06_CH2_SQ1_POR1_23">The Cookies who never came back must have walked straight into the oven on their own two feet...</string>
+  <string name="$Script_SAGA06_CH2_SQ1_POR1_24">Hold it! Did he just say \"Must have\"? Without solid evidence, he\'s essentially just guessing!</string>
+  <string name="$Script_SAGA06_CH2_SQ1_POR1_25">I recognize him! He was once convicted of fraud in this very courtroom!!!</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_26">Wh-What? Is that true, Zero Sugar Cookie?</string>
-  <string name="$Script_SAGA06_CH2_SQ1_POR1_27">Hyahem...! Well, that was AGES ago...!</string>
+  <string name="$Script_SAGA06_CH2_SQ1_POR1_27">Hyahem...! Well, that\'s practically ancient history at this point!</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_28">What Saffron Cookie was preaching is still suspicious either way! The oven does exist! We\'ve seen it for ourselves before!</string>
-  <string name="$Script_SAGA06_CH2_SQ1_POR1_29">Rebuttal. Additional criminal charges for Zero Sugar Cookie will result in the subject\'s isolation in the Sugar Glass Dome.</string>
-  <string name="$Script_SAGA06_CH2_SQ1_POR1_30">Wait... Zero Sugar Cookie is a con artist? A professional liar? And they brought someone like that in to testify...?</string>
+  <string name="$Script_SAGA06_CH2_SQ1_POR1_29">The very witness they brought forward was convicted of fraud before? Here?!</string>
+  <string name="$Script_SAGA06_CH2_SQ1_POR1_30">Wait... so Zero Sugar Cookie is a con artist? A professional liar? How could they bring in someone like THAT to testify...?</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_31">Silence! Be quiet! Keep it down! There will be no disruptions to this trial!</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_32">The point is... Wherever Saffron Cookie is sending them, it has to be somewhere dangerous! And-</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_33">My, my. Do you truly believe I mean to harm those who listen?</string>
-  <string name="$Script_SAGA06_CH2_SQ1_POR1_34">I simply a could not bear to watch our fellow Cookies suffer through a soggy, painful existence any longer.</string>
+  <string name="$Script_SAGA06_CH2_SQ1_POR1_34">I simply could not bear to watch our fellow Cookies suffer through a soggy, painful existence any longer.</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_35">But... everyone who left after listening to you... None of them have come back...</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_36">They have not failed to return. They have gone somewhere they have no reason to return from.</string>
-  <string name="$Script_SAGA06_CH2_SQ1_POR1_37">You claim to have seen and know the oven. Then surely you understand the fate that awaits us... tremling atop that great dining table...</string>
+  <string name="$Script_SAGA06_CH2_SQ1_POR1_37">You claim to have seen and know the oven. Then surely you understand the fate that awaits us... trembling atop a great dining table...</string>
   <string name="$Script_SAGA06_CH2_SQ1_POR1_38">...!</string>
-  <string name="$Script_SAGA06_CH2_SQ2_POR1_1">Alas, our lives are not eternal. But the fear born from our own fragile, doughy limits... that is what lasts forever!</string>
+  <string name="$Script_SAGA06_CH2_SQ2_POR1_1">Alas, our lives are not eternal. But the fear born from our own fragile, doughy limits...? That FEAR is what lasts forever!</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_2">The truth I have shared is a simple one. Every Cookie must return to the state in which they were most complete... most perfect.</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_3">... To trace back through the First Oven, and return to the First Dough, when all was one.</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_4">The First... Oven...</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_6">Look upon this scale! This so-called instrument of absolute truth. It weighs the depth of malice and the gravity of sin beyond what the mortal eye can see!</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_7">If there was even a trace of malice or ill intent behind my words, even the faintest desire to harm my fellow Cookies, would not the scales have tipped already?</string>
-  <string name="$Script_SAGA06_CH2_SQ2_POR1_9">Candy Chain Cookie... Are there any pieces of evidence to prove malicious intent?</string>
+  <string name="$Script_SAGA06_CH2_SQ2_POR1_9">Candy Chain Cookie... Are there any traces of evidence to prove malicious intent?</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_10">...... My team of temporary assistants and I have traced the movements and remaining records of the missing Cookies.</string>
-  <string name="$Script_SAGA06_CH2_SQ2_POR1_11">We examined Saffron Cookie\'s statements, actions, and the testimonies of everyone who fell under her influence...</string>
+  <string name="$Script_SAGA06_CH2_SQ2_POR1_11">We examined Saffron Cookie\'s statements, actions, and the testimonies of those who were swayed by her influence...</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_12">However, there appears to be no desire to deceive, and no desire to harm. Not a single grain of malicious intent could be confirmed.</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_13">Saffron Cookie\'s actions are rooted entirely in this so-called \"truth\" she genuinely believes and upholds.</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_14">Her conviction runs so deep, there\'s no intent to deceive at all. There\'s essentially nothing to place on the scales...</string>
@@ -28343,11 +28407,11 @@ So Saffron Cookie... really sent everyone to their...</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_18">By my flour and salt...</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_19">We worked so hard sifting through all that paperwork to find something... Is the trial just going to end like this...?</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_20">By the sugars in the stars... Look at Saffron Cookie\'s face. Not even a flicker of doubt... Maybe she really means it.</string>
-  <string name="$Script_SAGA06_CH2_SQ2_POR1_21">Scanning reports... Query, defendant. If accurate, defendant has recently acquired an unusual egg. Origin: This rumored \"haven\"? Please confirm.</string>
-  <string name="$Script_SAGA06_CH2_SQ2_POR1_22">... An egg...?</string>
+  <string name="$Script_SAGA06_CH2_SQ2_POR1_21">Cross-referencing records... Anomalous egg on file. Eyewitness testimony, placing it with Saffron Cookie. Validity confirmed.</string>
+  <string name="$Script_SAGA06_CH2_SQ2_POR1_22">Huh...? A winged egg...?</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_23">Tell us more!</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_24">Saffron Cookie. Pre-gathering record: clean. No prior criminal record or investigative history. However...</string>
-  <string name="$Script_SAGA06_CH2_SQ2_POR1_25">Scanning reports... Witnessed: defendant, Saffron Cookie, acquiring a winged egg. Post-acquisition: sudden onset of speeches and gathering activity.</string>
+  <string name="$Script_SAGA06_CH2_SQ2_POR1_25">Scanning reports... Witnessed: defendant, Saffron Cookie, acquiring a winged egg. Post-acquisition: sudden onset of speeches and public gatherings.</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_26">Hypothesis: Gatherings and winged egg, possible correlation. Probability: significant. Awaiting assessment.</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_27">What do you think you\'re doing? Chattering away in the middle of a trial?! I\'ll have you thrown in-</string>
   <string name="$Script_SAGA06_CH2_SQ2_POR1_28">We\'re not chattering! It\'s about the trial!</string>
@@ -28362,13 +28426,13 @@ So Saffron Cookie... really sent everyone to their...</string>
   <string name="$Script_SAGA06_CH2_SQ3_POR1_2">NO! Wake up and smell the frosting! First Egg Cookie is dangerous!</string>
   <string name="$Script_SAGA06_CH2_SQ3_POR1_3">She\'s been trying to kidnap Cookies of the First Batch from the other First Cookies!</string>
   <string name="$Script_SAGA06_CH2_SQ3_POR1_4">And while we\'re on the topic... First Salt Cookie! First Sugar Cookie! We don\'t have time for this!</string>
-  <string name="$Script_SAGA06_CH2_SQ3_POR1_5">If Saffron Cookie is serving under First Egg Cookie...</string>
-  <string name="$Script_SAGA06_CH2_SQ3_POR1_6">This whole thing could be a plot to target the Cookie of the First Batch under your protection!</string>
-  <string name="$Script_SAGA06_CH2_SQ3_POR1_7">... First Salt Cookie.</string>
-  <string name="$Script_SAGA06_CH2_SQ3_POR1_8">I know... But there is still too much left to uncover. This trial must be concluded.</string>
-  <string name="$Script_SAGA06_CH2_SQ3_POR1_9">Alrighty... But the moment it\'s over, we go straight over to check on Sweety.</string>
-  <string name="$Script_SAGA06_CH2_SQ3_POR1_10">Yes. I promise.</string>
-  <string name="$Script_SAGA06_CH2_SQ3_POR1_11">A plot...? Are you suggesting Saffron Cookie has somehow deceived the scales?</string>
+  <string name="$Script_SAGA06_CH2_SQ3_POR1_5">If Saffron Cookie is serving First Egg Cookie...</string>
+  <string name="$Script_SAGA06_CH2_SQ3_POR1_6">This whole thing could be a conspiracy to target the Cookie of the First Batch under your protection!</string>
+  <string name="$Script_SAGA06_CH2_SQ3_POR1_7">... First Salt Cookie. If she\'s targeting the Cookies of the First Batch... could Sweety be in danger?</string>
+  <string name="$Script_SAGA06_CH2_SQ3_POR1_8">Sweety is inside the Sugar Glass Dome... She should be safe for now.</string>
+  <string name="$Script_SAGA06_CH2_SQ3_POR1_9">Let us proceed with the trial for the moment, First Sugar Cookie.</string>
+  <string name="$Script_SAGA06_CH2_SQ3_POR1_10">Okay... But the moment this trial is over, we go straight over to check on Sweety.</string>
+  <string name="$Script_SAGA06_CH2_SQ3_POR1_11">A conspiracy...? Are you suggesting Saffron Cookie has somehow deceived the scales?</string>
   <string name="$Script_SAGA06_CH2_SQ3_POR1_12">The scales are absolute! There has never been a Cookie, not a single one, who has ever managed to deceive it! NOT ONCE!</string>
   <string name="$Script_SAGA06_CH2_SQ3_POR1_13">What if... Saffron Cookie is being tricked by First Egg Cookie...?</string>
   <string name="$Script_SAGA06_CH2_SQ3_POR1_14">She might be under a spell? Or being controlled by her...? Or maybe she doesn\'t have a choice...?</string>
@@ -28383,35 +28447,72 @@ So Saffron Cookie... really sent everyone to their...</string>
   <string name="$Script_SAGA06_CH2_SQ3_POR1_23">Are you stating, for the record, that you are willingly serving First Egg Cookie?</string>
   <string name="$Script_SAGA06_CH2_SQ3_POR1_24">You\'re admitting you, and no one else, pushed those Cookies straight into the hands of evil?!</string>
   <string name="$Script_SAGA06_CH2_SQ3_POR1_25">I shared with them the same joy I was allowed to experience. It is not evil. It is absolute, unconditional goodwill.</string>
-  <string name="$Script_SAGA06_CH2_SQ3_POR1_26">You don\'t know what First Egg Cookie is really like! Once she\'s done with you, you\'ll regret everything...!</string>
+  <string name="$Script_SAGA06_CH2_SQ3_POR1_26">You don\'t know what First Egg Cookie is really like! She\'s definitely up to no good! Something big and evil!</string>
   <string name="$Script_SAGA06_CH2_SQ3_POR1_27">Enough of this! This case is only becoming muddled by dragging it deeper into the unknown! My head is going to crack clean in half...!</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_1">Is this willing devotion on the defendant\'s part? Or a quiet erosion of the mind by a hidden hand...?</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_2">... Can the Scale of Good and Evil truly cut through such a tangled mess of this nature?</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_3">An act with no malice behind it, and yet the harm it caused is undeniable. Arguments for or against will never be able to see it the same way...</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_4">Where does this leave the trial? Are the scales really going to stay frozen until the very end?</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_5">Hm, the scales really are holding at perfect equilibrium.</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_6">I have a theory. The scale\'s logic, wherever it may come from, is incapable of weighing the gravity of Saffron Cookie\'s deeply rooted beliefs...</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_7">The scales may not be moving, but that doesn\'t make her innocent!</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_8">There might be Cookies walking away right now because they believed every word she said!</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_9">Come to think of it... Have you guys noticed that... none of Saffron Cookie\'s followers are in the courtroom gallery anymore?</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_1">Is this willing devotion?
+Or a quiet erosion of the
+mind by a hidden hand...?</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_2">... Can the Scale of Good and Evil
+truly cut through such
+a tangled mess of this nature?</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_3">An act with no malice, and yet
+the harm is undeniable.
+Arguments for or against it will
+never be able to see it the same way...</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_4">Where does this leave
+the trial? Are the scales
+really going to stay still?</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_5">Hm, the scales really
+are holding at
+perfect equilibrium.</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_6">The scale\'s logic may be
+incapable of weighing the
+gravity of her deeply
+rooted beliefs...</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_7">The scales may not
+be moving, but that
+doesn\'t make her innocent!</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_8">There might be Cookies
+walking away right now because
+they believed every word she said!</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_9">Come to think of it...
+Have you guys noticed none
+of her followers are in the
+courtroom anymore?</string>
   <string name="$Script_SAGA06_CH2_SQ4_CUT1_10">Did they leave already...?</string>
   <string name="$Script_SAGA06_CH2_SQ4_CUT1_11">... Silence, everyone.</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_12">If the scales can\'t render judgment... then we, the creators of the scales, must do it ourselves.</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_13">Ah. Stepping in personally, are we?</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_14">Surely those who carry such boundless wisdom can weigh something as small as my humble honesty without much effort.</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_15">Whether your will was eroded or freely given... We\'ll set that aside for now. But...</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_16">What cannot be set aside is the following. The consequences of your \"truth\" are a clear and present threat to this court and to the safety of every Cookie here.</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_17">Do you have anything to say to that?</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_12">The scales may not be able to
+render judgment, but we also can\'t
+just ignore the problem at hand.</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_13">Ah. Then are you
+stepping in personally?</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_14">Surely your boundless wisdom
+can weigh something as meager
+as my humble honesty.</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_15">Whether your will was eroded
+or freely given... We\'ll set that
+aside for now. But...</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_16">The consequences of your
+\"truth\" are a clear and present
+threat to this court and to the
+safety of every Cookie here.</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_17">Do you have anything
+to say to that?</string>
   <string name="$Script_SAGA06_CH2_SQ4_CUT1_18">Heh... What you call a threat...</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_19">... is nothing more than the first tremors of something far greater in the making.</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_20">... Very well. The verdict will now be rendered. Defendant, Saffron Cookie. You are hereby-</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_21">Wait, wait... Hold on.</string>
-  <string name="$Script_SAGA06_CH2_SQ4_CUT1_22">Does anyone else feel that? Something is... shaking?</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_19">... is nothing more than the
+first tremors of something
+far greater in the making.</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_20">Until the scale is able to
+render a verdict, the defendant
+is to be held in confinement-</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_21">Did you hear that?
+And... the ground is shaking...?</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_22">The entire courtroom is shaking!</string>
   <string name="$Script_SAGA06_CH3_SQ1_POR1_1">What\'s happening?! The ground is shaking like crazy! Is it an earthquake?!</string>
   <string name="$Script_SAGA06_CH3_SQ1_POR1_2">It sounds like the sky is falling...!!!</string>
-  <string name="$Script_SAGA06_CH3_SQ1_POR1_3">What in the world is...?! Rock Candy Cookie, Glass Cannon Cookie! Can either of you see what\'s going on outside?</string>
+  <string name="$Script_SAGA06_CH3_SQ1_POR1_3">What is...?! Rock Candy Cookie, Glass Cannon Cookie! Can either of you see what\'s going on outside?</string>
   <string name="$Script_SAGA06_CH3_SQ1_POR1_4">Wh-What... is that?</string>
-  <string name="$Script_SAGA06_CH3_SQ1_POR1_5">Report. Unidentified black mass. Approaching Sugar Glass Dome. Probability of aggression: guaranteed. Warning. Danger. Warning. Danger.</string>
+  <string name="$Script_SAGA06_CH3_SQ1_POR1_5">Report. Unidentified dark mass. Approaching Sugar Glass Dome. Probability of aggression: guaranteed. Warning. Danger. Warning. Danger.</string>
   <string name="$Script_SAGA06_CH3_SQ1_POR1_6">Ahhh. At long last, the reckoning has come! A force more absolute than any verdict this court could ever render...!</string>
   <string name="$Script_SAGA06_CH3_SQ1_POR1_7">Warning! WARNING! Sugar Glass Dome integrity, compromised! Critical destruction risk! Danger, danger, DANGER!</string>
   <string name="$Script_SAGA06_CH3_SQ1_POR1_8">...!
@@ -28419,29 +28520,29 @@ Everyone get down!!! NOW!!!</string>
   <string name="$Script_SAGA06_CH3_SQ1_POR1_9">The Sugar Glass Dome is falling!!!
 WE\'RE DOOMED!!!</string>
   <string name="$Script_SAGA06_CH3_SQ1_POR1_11">No...! Sweety is still inside the Sugar Glass Dome...!</string>
-  <string name="$Script_SAGA06_CH3_SQ1_POR1_12">Don\'t go out there, First Salt Cookie! The only reason this courtroom is still standing is because both of us are still in here!!!</string>
-  <string name="$Script_SAGA06_CH3_SQ1_POR1_13">Ow... My head... Everything is spinning...</string>
-  <string name="$Script_SAGA06_CH3_SQ1_POR1_14">What was that thing...? It was... so enormous... it just grabbed Cookies with its branches...?</string>
+  <string name="$Script_SAGA06_CH3_SQ1_POR1_12">A massive hand... is shattering the dome!!!</string>
+  <string name="$Script_SAGA06_CH3_SQ1_POR1_13">GAAAH! Everything is spinning...!!!</string>
+  <string name="$Script_SAGA06_CH3_SQ1_POR1_14">What is that THING...?! It\'s enormous! It just grabbed a Cookie with its giant branches...!</string>
   <string name="$Script_SAGA06_CH3_SQ1_POR1_15">No. Those are not branches...</string>
-  <string name="$Script_SAGA06_CH3_SQ1_POR1_16">It\'s... a witch\'s hand!!!</string>
-  <string name="$Script_SAGA06_CH3_SQ1_POR1_17">Ngh...! My head...</string>
-  <string name="$Script_SAGA06_CH3_SQ1_POR1_19">What is this...? Something is... pushing into my mind...</string>
+  <string name="$Script_SAGA06_CH3_SQ1_POR1_16">It\'s... It\'s a witch\'s hand!!! And she\'s taking Sweety...!!!</string>
+  <string name="$Script_SAGA06_CH3_SQ1_POR1_17">NGH...! What?! My head... it\'s...!</string>
+  <string name="$Script_SAGA06_CH3_SQ1_POR1_19">What is this...? Something is... pushing itself into my mind...</string>
   <string name="$Script_SAGA06_CH3_SQ1_POR1_20">I... This... It\'s a... strange memory... resurfacing...!</string>
   <string name="$Script_SAGA06_CH3_SQ1_POR1_22">Are you alright, First Salt Cookie?!</string>
   <string name="$Script_SAGA06_CH3_SQ1_POR1_23">Stay with us, First Sugar Cookie!</string>
-  <string name="$Script_SAGA06_CH3_SQ2_POR1_1">These cookies are sweet... but so terrible fragile.</string>
+  <string name="$Script_SAGA06_CH3_SQ2_POR1_1">These Cookies are sweet... but so terribly weak..</string>
   <string name="$Script_SAGA06_CH3_SQ2_POR1_2">One wrong bump and they crumble to pieces.</string>
   <string name="$Script_SAGA06_CH3_SQ2_POR1_3">Yes... These little ones need something powerful to protect them...</string>
   <string name="$Script_SAGA06_CH3_SQ2_POR1_4">Like we have......... our hero.........</string>
-  <string name="$Script_SAGA06_CH3_SQ2_POR1_5">......... also said that this was how a crystal of powers was crafted......... was against it, but.........</string>
-  <string name="$Script_SAGA06_CH3_SQ2_POR1_6">Those two seem to grow more......... by the day. Of course, every......... thinks differently.........</string>
-  <string name="$Script_SAGA06_CH3_SQ2_POR1_7">......... is already baking......... one after the other, trying to make the......... they\'ve always wanted.</string>
-  <string name="$Script_SAGA06_CH3_SQ2_POR1_8">I just hope......... doesn\'t bake a Cookie who hides the exact same way, too afraid to trust anyone, hehe...</string>
+  <string name="$Script_SAGA06_CH3_SQ2_POR1_5">If we concentrate all that power into a single vessel... we can forge a true, powerful hero...</string>
+  <string name="$Script_SAGA06_CH3_SQ2_POR1_6">Of course, each......... will have their own idea of..........</string>
+  <string name="$Script_SAGA06_CH3_SQ2_POR1_7">......... is already baking......... one after the other, trying to make the......... always wanted.</string>
+  <string name="$Script_SAGA06_CH3_SQ2_POR1_8">I just hope......... doesn\'t bake a Cookie who hides the exact same way, too afraid to trust anyone, hehe...!</string>
   <string name="$Script_SAGA06_CH3_SQ2_POR1_9">Hm... Even so......... didn\'t say they wouldn\'t stop any Cookie who wanted to become a hero... And yet...</string>
-  <string name="$Script_SAGA06_CH3_SQ2_POR1_10">We already know... Sometimes, you need power and strength to stand up against evil...</string>
-  <string name="$Script_SAGA06_CH3_SQ2_POR1_11">And everyone must know that power is a force for good...</string>
-  <string name="$Script_SAGA06_CH3_SQ2_POR1_12">So... Let\'s make a hero, beautiful and eternal, one who shields the good from the evil...</string>
-  <string name="$Script_SAGA06_CH3_SQ2_POR1_13">If we contribute our own crystals as well... this small, precious paradise of ours will be that much safer...</string>
+  <string name="$Script_SAGA06_CH3_SQ2_POR1_10">We know the truth... for the happiness of the good... a power to hold back evil is necessary...</string>
+  <string name="$Script_SAGA06_CH3_SQ2_POR1_11">Yes... What\'s needed is a hero who stands with the vulnerable and delivers justice to the oppressed...</string>
+  <string name="$Script_SAGA06_CH3_SQ2_POR1_12">So... Let\'s make a hero, beautiful and eternal...</string>
+  <string name="$Script_SAGA06_CH3_SQ2_POR1_13">Yes... Only then will the world of Cookies grow safer, and stronger...</string>
   <string name="$Script_SAGA06_CH3_SQ2_POR1_15">Your Honors...! Wake up...! First Salt Cookie, First Sugar Cookie!</string>
   <string name="$Script_SAGA06_CH3_SQ2_POR1_16">Ngh...! Wh-Where are we...?</string>
   <string name="$Script_SAGA06_CH3_SQ2_POR1_17">... What happened? Eugh...</string>
@@ -28463,10 +28564,10 @@ WE\'RE DOOMED!!!</string>
   <string name="$Script_SAGA06_CH3_SQ2_POR1_32">Huh? What do you mean? Did you guys have something to do with this???</string>
   <string name="$Script_SAGA06_CH3_SQ2_POR1_33">What...?</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_1">Ah! You have witnessed the full force of the Absolute\'s power with your very own eyes!</string>
-  <string name="$Script_SAGA06_CH3_SQ3_POR1_2">Share what you have witnessed. Leave nothing out.</string>
-  <string name="$Script_SAGA06_CH3_SQ3_POR1_3">From the very beginning to the very end, I must hear every detail of this glorious deed!</string>
+  <string name="$Script_SAGA06_CH3_SQ3_POR1_2">You have made this miracle happen, my friends! Truly a magnificent achievement!</string>
+  <string name="$Script_SAGA06_CH3_SQ3_POR1_3">Wh-What have you done?!</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_4">After you spoke of the Absolute, we all decided to head to the oven together!</string>
-  <string name="$Script_SAGA06_CH3_SQ3_POR1_5">Ahhh... the First oven... It was every bit as vast and scorching as described, hot enough to scorch you to the core!</string>
+  <string name="$Script_SAGA06_CH3_SQ3_POR1_5">Ahhh... the First Oven... It was every bit as vast and scorching as described, hot enough to scorch you to the core!</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_6">Just like the Cookies who had gone before, others in our group willingly stepped into the oven.</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_7">I will never forget the rich, sweet scent that poured from the oven as its flames embraced their dough...</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_8">It was that very scent that drew the Absolute\'s gaze down upon us!</string>
@@ -28478,64 +28579,113 @@ WE\'RE DOOMED!!!</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_14">Your plan didn\'t work! That witch didn\'t come to save Saffron Cookie at all!</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_15">I see no signs of failure. Could there be any greater success than this?</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_16">This court\'s false sense of justice, riddled with contradictions and hypocrisy, has been shattered! Only the power of the Absolute remains to shine in its place!</string>
-  <string name="$Script_SAGA06_CH3_SQ3_POR1_17">You sacrificed other Cookies just to save Saffron Cookie?! How could you do such a thing?</string>
-  <string name="$Script_SAGA06_CH3_SQ3_POR1_18">It is precisely through their noble sacrifice that the Absolute claimed the one tremendous power!</string>
+  <string name="$Script_SAGA06_CH3_SQ3_POR1_17">You put other Cookies in danger just to save Saffron Cookie?! How could you do such a thing?</string>
+  <string name="$Script_SAGA06_CH3_SQ3_POR1_18">It is precisely through their noble sacrifice that the Absolute claimed the one with tremendous power!</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_19">And that Cookie, snatched away from this forsaken court, will pass through the Absolute\'s hands and reach First Egg Cookie at last!</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_20">She was right all along... First Egg Cookie will redeliver the First Salvation!</string>
-  <string name="$Script_SAGA06_CH3_SQ3_POR1_21">Salvation?! Are you hearing yourself right now? To that witch, we\'re nothing but snacks! Every last one of us, one squeeze away from crumbling!</string>
+  <string name="$Script_SAGA06_CH3_SQ3_POR1_21">Are you hearing yourself right now? This isn\'t salvation at all!!!</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_22">You only survived by chance! First Egg Cookie didn\'t protect you at all, not even for a second!</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_23">You still refuse to understand. There was no reason for me to be saved.</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_24">I am nothing more than a guide for this great return... a humble contribution to a journey of everlasting glory!</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_25">... I\'ve heard enough. To think this courtroom was destroyed over such senseless delusion.</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_26">Glass Cannon Cookie! Rock Candy Cookie! Salt Crystal Cookie! Detain every last one of these zealots!</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_27">With this, we have all taken one step closer to the truth! One step closer to returning to our Haven, the First Dough!</string>
-  <string name="$Script_SAGA06_CH3_SQ3_POR1_28">You are all hereby under arrest for contempt of court! No... for the destruction of this court! Your sins shall never be forgiven!!!</string>
+  <string name="$Script_SAGA06_CH3_SQ3_POR1_28">You are all hereby under arrest for contempt of court! No... for the destruction of this court!</string>
   <string name="$Script_SAGA06_CH3_SQ3_POR1_29">Ahaha... hahaha... HAHA... HA HA HA HA HA!!!</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_1">Are you okay, First Salt Cookie? And you too, First Sugar Cookie?</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_2">Our Sugar Glass Dome. Our court. Our order. All is lost and in ruins...</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_3">The trial and the scales... Everything was made a mockery of...</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_4">No, the trial isn\'t over yet... We can still do this! ... Right?</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_5">Saffron Cookie\'s crimes have evolved into something completely different from what they were before. What do we do?</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_6">Even... if a verdict is decided... Saffron Cookie can\'t be held anywhere... The Sugar Glass Dome is destroyed...</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_7">Does this mean... Saffron Cookie\'s trial is over? Just like that?</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_1">Are you okay, First Salt Cookie?
+How about you, First Sugar Cookie?</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_2">Our Sugar Glass Dome.
+Our court. Our order.
+All is lost and in ruins...</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_3">The trial and the scales...
+Everything was made
+a mockery of...</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_4">No, the trial isn\'t over yet...
+We can still do this!
+... Right?</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_5">Saffron Cookie\'s crimes have
+evolved into something
+entirely new. What do we do?</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_6">Even... if a verdict is decided...
+Saffron Cookie can\'t be held anywhere...
+The Sugar Glass Dome is destroyed...</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_7">Does this mean...
+Saffron Cookie\'s trial is over?
+Just like that?</string>
   <string name="$Script_SAGA06_CH3_SQ4_CUT1_8">... No.</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_9">Neither good nor evil crumble so easily.</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_9">Neither good nor evil
+crumble so easily.</string>
   <string name="$Script_SAGA06_CH3_SQ4_CUT1_10">... And we will not allow it.</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_11">Saffron Cookie... There is no malice in your words or intent, that much is clear. Even if the outcome is nothing short of devastating.</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_12">And in attempting to weigh that... this court must acknowledge that it was not equipped to bear the full weight of your contradictions.</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_13">Your Honors...! Surely you cannot be considering abandoning the trial...?</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_11">Saffron Cookie... There is no malice
+in your words or intent, that much
+is clear. Even if the outcome is
+nothing short of devastating.</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_12">And in attempting to weigh that...
+this court must acknowledge that
+it was not equipped to bear the
+full weight of your contradictions.</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_13">Your Honors...! Surely you
+cannot be considering
+abandoning the trial...?</string>
   <string name="$Script_SAGA06_CH3_SQ4_CUT1_14">No. This trial...</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_15">... is hereby suspended pending further deliberation!</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_15">... is hereby suspended
+pending further deliberation!</string>
   <string name="$Script_SAGA06_CH3_SQ4_CUT1_16">Suspended???</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_17">Until we\'re sure that we can reach the right decision, the trial is suspended.</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_18">That said, Saffron Cookie and her followers have caused considerable damage to this court by luring the witch here...</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_19">That\'ll have to be handled as an entirely separate trial!</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_20">Until the trial resumes... confine them to whatever remains of the Sugar Glass Dome\'s isolation ward!</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_21">Confirmed. Isolation ward, or equivalent, shall be secured.</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_22">So... This is your choice. Do you truly believe this sham of a trial can be reopened?</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_23">Do you honestly believe you can resolve this so-called conundrum before you?</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_24">... You may be right. We may never resolve it.</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_25">Perhaps every Cookie will truly return to the First Dough one day. But what matters is...</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_26">... You will not be returning to that dough. Nor will you be spreading your poisonous words of temptation any further.</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_27">Because... until this trial is reopened, and perhaps for far longer than that, you WILL remain locked in that isolation ward until justice is served!</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_17">Until we\'re sure that we can
+reach the right decision,
+the trial is suspended.</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_18">That said, Saffron Cookie and
+her followers have caused
+considerable damage to this
+court by luring a witch here...</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_19">That\'ll have to be handled
+as an entirely separate trial!</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_20">Until the trial resumes... confine them
+to whatever remains of the
+Sugar Glass Dome\'s isolation ward!</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_21">Confirmed. Isolation ward,
+or equivalent, shall be secured.</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_22">So... This is your choice.
+Do you truly believe this sham
+of a trial can be reopened?</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_23">Do you honestly believe
+you can resolve this so-called
+conundrum before you?</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_24">... You may be right.
+This may be beyond
+our power to resolve.</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_25">Because at the very
+foundation of this world,
+there is no single answer...</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_26">But unlike the scale,
+we possess will.
+And will grants the
+power of choice.</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_27">Because... until this trial is reopened,
+and perhaps for far longer than that,
+you WILL remain locked in that
+isolation ward until justice is served!</string>
   <string name="$Script_SAGA06_CH3_SQ4_CUT1_28">... You...</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_29">Transfer Saffron Cookie, NOW!</string>
-  <string name="$Script_SAGA06_CH3_SQ4_CUT1_30">Executing orders. Detain and transfer Saffron Cookie.</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_29">Transfer Saffron Cookie,
+NOW!</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_30">Executing orders.
+Detain and transfer
+Saffron Cookie.</string>
   <string name="$Script_SAGA06_CH4_SQ1_POR1_1">Thanks for everything you did to help with the trial! Even... if it ended up like this...</string>
-  <string name="$Script_SAGA06_CH4_SQ1_POR1_2">Still, thanks to your efforts, we have a much clearer picture of what is actually transpiring.</string>
+  <string name="$Script_SAGA06_CH4_SQ1_POR1_2">Thanks to your efforts, we have a much clearer picture of what is actually transpiring.</string>
   <string name="$Script_SAGA06_CH4_SQ1_POR1_3">The court is our responsibility, and it is we who shall see this to the end. Your services are no longer-</string>
   <string name="$Script_SAGA06_CH4_SQ1_POR1_4">No! We can\'t just walk away from this!</string>
   <string name="$Script_SAGA06_CH4_SQ1_POR1_5">We\'re on this journey to specifically to stop First Egg Cookie!</string>
-  <string name="$Script_SAGA06_CH4_SQ1_POR1_6">That\'s right. We knew the Cookies of the First Batch were in danger of being taken, so we have set out to find them.</string>
+  <string name="$Script_SAGA06_CH4_SQ1_POR1_6">That\'s right. We knew the Cookies of the First Batch were in danger of being taken, so we\'re out to find them!</string>
   <string name="$Script_SAGA06_CH4_SQ1_POR1_7">First Cream Cookie asked us personally to find and rescue the First Batchers!</string>
   <string name="$Script_SAGA06_CH4_SQ1_POR1_8">First Cream Cookie...?</string>
-  <string name="$Script_SAGA06_CH4_SQ1_POR1_9">So you\'re... Ha, so once again, we are in her debt.</string>
-  <string name="$Script_SAGA06_CH4_SQ1_POR1_10">We let our guard down this time as well. We never imagined First Egg Cookie would be this prepared in advance.</string>
-  <string name="$Script_SAGA06_CH4_SQ1_POR1_11">Nobody could have seen her using... the witch...</string>
+  <string name="$Script_SAGA06_CH4_SQ1_POR1_9">So you\'re... Ha, once again, we are in her debt.</string>
+  <string name="$Script_SAGA06_CH4_SQ1_POR1_10">We let our guard down this time as well. We never imagined First Egg Cookie could\'ve prepared something like this so far in advance.</string>
+  <string name="$Script_SAGA06_CH4_SQ1_POR1_11">Nobody could have seen her using the witch as part of her plan...</string>
   <string name="$Script_SAGA06_CH4_SQ1_POR1_12">We\'re not gonna give up! We\'re gonna keep pushing forward!</string>
-  <string name="$Script_SAGA06_CH4_SQ1_POR1_13">We\'ll stop First Egg Cookie! And we\'ll bring Sweety back home. We promise!</string>
-  <string name="$Script_SAGA06_CH4_SQ1_POR1_14">... Thank you! Please find and take good care of Sweety! Something tells me this is going to be a long journey.</string>
-  <string name="$Script_SAGA06_CH4_SQ1_POR1_15">... And putting this courtroom back together will probably take just as long.</string>
+  <string name="$Script_SAGA06_CH4_SQ1_POR1_13">We\'ll stop First Egg Cookie! And we WILL bring Sweety back. We promise!</string>
+  <string name="$Script_SAGA06_CH4_SQ1_POR1_14">... Yes. Please, take good care of Sweety. Once we\'ve sorted things out here, we\'ll do everything we can to find her too.</string>
+  <string name="$Script_SAGA06_CH4_SQ1_POR1_15">... And we will also get to the bottom of whatever First Egg Cookie is plotting.</string>
   <string name="$Script_SAGA06_CH4_SQ1_POR1_16">First Salt Cookie.</string>
   <string name="$Script_SAGA06_CH4_SQ1_POR1_17">First Sugar Cookie...</string>
   <string name="$Script_SAGA06_CH4_SQ1_POR1_18">So... what happens to us now?</string>
@@ -28551,7 +28701,7 @@ WE\'RE DOOMED!!!</string>
   <string name="$Script_SAGA06_CH4_SQ2_POR1_3">First Salt Cookie... That memory from earlier, you saw it too... didn\'t you?</string>
   <string name="$Script_SAGA06_CH4_SQ2_POR1_4">The one where we were shaping light with our big hands...</string>
   <string name="$Script_SAGA06_CH4_SQ2_POR1_5">... No matter how hard I try to forget, it\'s a feeling that just cannot be forgotten... Back when our hands... were a different shape.</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_6">The arrogance of those days... Standing before little ones and telling ourselves we would give them a \"hero\"...</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_6">Those days when we were so eager... to give the little ones a hero of their own.</string>
   <string name="$Script_SAGA06_CH4_SQ2_POR1_8">We were creators once. Standing before the oven, dreaming of a sweeter, more perfect world.</string>
   <string name="$Script_SAGA06_CH4_SQ2_POR1_9">A world free of the threats born from greed, absent of cold steel blades.</string>
   <string name="$Script_SAGA06_CH4_SQ2_POR1_10">A world absent of unjust trials, free of the grief born from losing those you love.</string>
@@ -28562,24 +28712,24 @@ WE\'RE DOOMED!!!</string>
   <string name="$Script_SAGA06_CH4_SQ2_POR1_15">We were shown a small, sweet vision of that perfect world.</string>
   <string name="$Script_SAGA06_CH4_SQ2_POR1_16">The other...... lashed out, angrily... said that wasn\'t what mattered right now.</string>
   <string name="$Script_SAGA06_CH4_SQ2_POR1_17">But ...... loved Cookies deeply... hoping they would never carry the same sorrows we did.</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_18">So she shaped the light itself, pouring her own strength into it... to preserve that ideal world.</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_19">We agreed... just as...... had, that a hero was needed.</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_20">And so we made up our minds. We would pool our own strength and forge a light... worth of a hero.</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_21">But that light was never enough, was it? The world of Cookies today is no different from the world we once knew.</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_22">Some draped in gold, puffed up in arrogance. Others persecuted for nothing more than healing those in need while absent of a license...</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_23">... And some twisting their beliefs into something so broken and corrupt, driving each other straight into ruin.</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_25">We... we just never saw it. We took the very chains of our own world and laid them down onto this small one.</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_26">The standards we believed to be the measure of good and evil... were perhaps nothing but measures of our arrogance.</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_27">All those Cookies we found guilty over the years. The ones we sentenced and sealed away within the dome...</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_28">Did locking them away ever make this world even a single bit crispier?</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_29">It\'s not like we locked everyone away!</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_30">There were plenty of cases that ended in fines or other forms of punishment... like Zero Sugar Cookie!</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_31">What I mean is... going forward, punishment and isolation alone will never be enough to fix anything.</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_32">We handed down those sentences because we believed it was the only answer...</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_33">But after what we\'ve seen today... If we cling onto isolation as the solution, that\'s not justice. It\'s cowardice.</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_34">... Picking out the guilty and sealing them inside the Sugar Glass Dome would put our minds at ease.</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_35">But the world outside that dome would still be soaked in despair... Is that what you\'re saying?</string>
-  <string name="$Script_SAGA06_CH4_SQ2_POR1_36">I think I understand now... I don\'t want to be a coward either!</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_18">To preserve that ideal, we poured our power into the creation of a world...</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_19">And like...... we agreed a hero was necessary.</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_20">And so we made up our minds. We would pool our strength together and forge a light... worthy of a hero.</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_21">But were we wrong in our thinking? The world of Cookies is not so different from our own after all...</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_22">Envy, jealousy, deception, conflict, strife... All of it still exists...</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_23">It isn\'t a world of beautiful happiness alone... Ugliness and suffering lives here too.</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_25">Perhaps the ideal world we dreamed of... is simply impossible in reality.</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_26">And the standards we believed to be the measure of good and evil... were perhaps nothing but measures of our arrogance.</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_27">This world... filled with those who live with free will... It seems good and evil aren\'t always easy to define. And not easy to separate either.</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_28">What we\'ve been doing all this time with the Scale of Good and Evil... Has it actually helped the world of Cookies?</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_29">We may have rendered fair verdicts and isolated the guilty, all in hopes of building a world for good Cookies to thrive in. And yet...</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_30">We still could not bring that ideal world into being. This approach—OUR approach... it wasn\'t the answer.</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_31">You\'re right. We kept going because we firmly believed it was the only answer....</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_32">Now we truly know. Isolating those who do wrong is not enough to make an ideal world.</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_33">To face that truth and still insist on isolation anyway...? That would be nothing but cowardice.</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_34">... Picking out the guilty and sealing them inside the Sugar Glass Dome put our minds at ease, yes...</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_35">But the world outside that dome was still soaked in despair... Is that what you\'re saying?</string>
+  <string name="$Script_SAGA06_CH4_SQ2_POR1_36">I think I understand now... I refuse to be a coward!</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_1">For far too long, we sat perched high above on the scales... and turned our eyes away from the reality below.</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_2">When you think about it... maybe this courtroom falling apart was exactly what we needed to happen?</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_3">... Yes.</string>
@@ -28589,8 +28739,8 @@ WE\'RE DOOMED!!!</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_7">Outside? You mean, outside the courtroom?</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_8">Yes! We still want this world of Cookies to be crisp and sweet, right?</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_9">Wouldn\'t it be better to leave these crumbled walls behind and tackle the problems head-on ourselves?</string>
-  <string name="$Script_SAGA06_CH4_SQ3_POR1_10">Hm, through understanding rather than isolation? Through action rather than judgment?</string>
-  <string name="$Script_SAGA06_CH4_SQ3_POR1_11">We\'d be experiencing this world as Cookies, not as creators! It might be reveal the truest path forward for Cookies everywhere!</string>
+  <string name="$Script_SAGA06_CH4_SQ3_POR1_10">You mean we should become part of the Cookie world ourselves?</string>
+  <string name="$Script_SAGA06_CH4_SQ3_POR1_11">Yes! Experiencing this world as Cookies, not as its creators. It might reveal to us the truest path forward for Cookies everywhere!</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_12">What do you think, First Salt Cookie?</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_13">... Could we... ask the scales first?</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_14">The scales?</string>
@@ -28600,51 +28750,116 @@ WE\'RE DOOMED!!!</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_18">Not even once.</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_19">Alrighty then! Let\'s find out what verdict the scales have for us!</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_21">Weigh the burden of our goodwill!</string>
-  <string name="$Script_SAGA06_CH4_SQ3_POR1_22">Weight the hope we have for setting the rules for a better world, our desire to protecting the weak!</string>
+  <string name="$Script_SAGA06_CH4_SQ3_POR1_22">Weigh the hope we have for setting the rules for a better world, our desire for protecting the weak!</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_24">Weigh the burden of what we chose to look away from.</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_25">The branding of Cookies as guilty, the arrogance of passing judgment without ever understanding what it means to live as one of them...</string>
-  <string name="$Script_SAGA06_CH4_SQ3_POR1_26">Weight the burden of that irresponsibility.</string>
+  <string name="$Script_SAGA06_CH4_SQ3_POR1_26">Weigh the burden of that irresponsibility.</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_30">It\'s... not moving...?</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_31">... Perhaps that means we were right, First Sugar Cookie.</string>
-  <string name="$Script_SAGA06_CH4_SQ3_POR1_32">We are complex beings. Even within sweetness, salty and savory flavors lurk underneath...</string>
+  <string name="$Script_SAGA06_CH4_SQ3_POR1_32">We are complex beings. Even within what is sweet, salty and savory flavors can lurk underneath and seep out...</string>
   <string name="$Script_SAGA06_CH4_SQ3_POR1_33">Even the softest dough can carry a hard layer of icing on top.</string>
-  <string name="$Script_SAGA06_CH4_SQ3_POR1_34">As long as a soul lives within even the smallest of Cookies, countless contradictions and flavors will be woven together within.</string>
-  <string name="$Script_SAGA06_CH4_SQ3_POR1_35">And so, just like the trials of those who came before us... it was never going to be anything but complicated.</string>
-  <string name="$Script_SAGA06_CH4_SQ3_POR1_36">Complicated just like our hearts... tangled with contradictory forces, both good and evil intentions.</string>
-  <string name="$Script_SAGA06_CH4_SQ3_POR1_37">And a heart alone, no matter how well-meaning, can never be enough to discern the guilty from the innocent.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_1">The scale... It has stopped at perfect equilibrium.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_2">That is... the most complete answer it could have given us.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_3">I guess the answer we\'ve been given is... \"Our guilt cannot be determined\".</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_4">The most precise and elaborate essence of order we have built... has just ruled against its own creators.</string>
+  <string name="$Script_SAGA06_CH4_SQ3_POR1_34">As long as a soul lives in even the smallest of Cookies, countless contradictions and complex flavors will be woven together within.</string>
+  <string name="$Script_SAGA06_CH4_SQ3_POR1_35">Yes. Life... Living... The world itself... Perhaps complexity is simply inevitable.</string>
+  <string name="$Script_SAGA06_CH4_SQ3_POR1_36">The forces of good and evil are intertwined everywhere... In our own hearts, in this world...</string>
+  <string name="$Script_SAGA06_CH4_SQ3_POR1_37">What is truly guilty? What is truly innocent? Perhaps that is something we were never able to separate at all.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_1">The scale... It has stopped
+at perfect equilibrium.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_2">That is... the most
+complete answer it
+could have given us.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_3">I guess the answer
+we\'ve been given is...
+\"Our guilt cannot be determined\".</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_4">The most precise and
+elaborate essence of order
+we have built... has just ruled
+against its own creators.</string>
   <string name="$Script_SAGA06_CH4_SQ4_CUT1_5">... Pffft!</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_6">Are you laughing, First Sugar Cookie?</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_7">I, I just... Pffft! It\'s so funny! Hahaha! We put ourselves on trial and we couldn\'t get an answer!</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_8">Ahahahaha! We... we really are a mess, aren\'t we?!</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_9">Hehe... I guess we really are. Honestly, we\'re something else.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_10">Hahahaha! Ahahaha! Haha... ha... Somehow though, now that it\'s come to this... I actually feel so much better.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_11">I know what you mean. Because, in the end, even a non-answer is still an answer.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_12">The desire we carried as creators, that urge to control... It was holding this world back... Suffocating, stagnating...</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_13">If we had kept trying to weight good against evil forever, this world may have never been able to move forward. Or worse, moved backward.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_14">Yes. Just like the scale.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_15">Yes, indeed. Just like the scale.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_16">... Shall we depart then? And leave the scale exactly as it is.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_17">And not interfere in the lives of Cookies anymore?</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_18">It will be their laws, their lives, their world... their fate. Let\'s leave all of it in their hands.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_19">As much as we love this world, our involvement will only make it worse.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_20">Though we may not be able to leave this castle entirely...</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_21">... We can still leave the courtroom! That much is a limit of our own making!</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_22">But... Really, what of the courtroom?</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_23">We can leave a letter before we go. Candy Chain Cookie and the others are sure to find it.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_24">Rock Candy Cookie, Glass Cannon Cookie, Salt Crystal Cookie, Gummy Tape Cookie...</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_25">If anyone can build a new court for the Cookies... it\'s them!</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_26">A court made by Cookies for the Cookies! Let\'s leave it in their hands and set out on our own journey. We\'ll go and see this new world for ourselves.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_27">And when we\'re ready to meet them, truly Cookie to Cookie...</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_28">We\'ll come back and see what kind of court they\'ve built.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_6">Are you laughing,
+First Sugar Cookie?</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_7">It\'s so funny! Hahaha!
+We put ourselves on trial
+and we couldn\'t get an answer!</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_8">Ahahahaha!
+We really are a mess,
+aren\'t we?!</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_9">Hehe... I guess we really are.
+Honestly, we\'re something else.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_10">Hahahaha! Haha... ha...
+Somehow though, now that
+it\'s come to this... I actually
+feel so much better.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_11">I know what you mean.
+Because, in the end, even a
+non-answer is still an answer.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_12">The desire we carried as creators,
+that urge to control... It was
+holding this world back...
+Suffocating, stagnating...</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_13">If we kept weighing good
+against evil forever, this world
+may have never been able to move
+forward. Or worse, moved backward.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_14">Yes.
+Just like the scale.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_15">Yes, indeed.
+Just like the scale.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_16">... Shall we depart then?
+And leave the scale exactly as it is?</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_17">And not interfere in the
+lives of Cookies anymore?</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_18">It will be their laws, their lives,
+their world... their fate.
+Let\'s leave all of it in their hands.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_19">Then it is settled.
+We will live our lives
+properly... as Cookies!</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_20">Though we may not be
+able to leave this castle
+entirely... and Sweety is
+still out there too.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_21">Even so... Just stepping
+outside the courtroom will
+change our lives completely!</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_22">Ah...
+What must we do
+about the courtroom?</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_23">We can leave a letter before
+we go. Candy Chain Cookie and
+the others are sure to find it.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_24">Rock Candy Cookie,
+Glass Cannon Cookie,
+Salt Crystal Cookie,
+Gummy Tape Cookie...</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_25">If anyone can build
+a new court for
+the Cookies... it\'s them!</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_26">A court made by Cookies
+for the Cookies! Let\'s leave it
+in their hands and see this
+world for ourselves.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_27">And when we\'re 
+ready to meet them,
+truly Cookie to Cookie...</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_28">We\'ll come back and
+see what kind of court
+they\'ve built.</string>
   <string name="$Script_SAGA06_CH4_SQ4_CUT1_29">... I like that plan.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_30">Yes... Let us depart then. The world of Cookies and the order within it... we shall leave it all to them.</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_31">Goodbye, our dearest Cookie friends!</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_32">May you run so much farther than the narrow path we laid out for you... And much more freely!</string>
-  <string name="$Script_SAGA06_CH4_SQ4_CUT1_33">... Your fate is now your own.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_30">Then let\'s go. Let us
+give the Cookies the
+power to shape their
+own world and order.</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_31">And we\'ll leave the
+door open! So that every
+Cookie has a chance to
+find their own happiness,</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_32">to run far beyond any path
+we could\'ve ever laid out
+for them! Free in ways
+even we never imagined!</string>
+  <string name="$Script_SAGA06_CH4_SQ4_CUT1_33">... Cookies.
+Your destiny
+belongs to you now.</string>
   <string name="$Script_SAGA06_CH4_SQ4_CUT1_34">Good luck.</string>
   <string name="$UX.CPC.cookie.2028.Title.Main">The Scent of Roses in a Salt Shaker</string>
   <string name="$UX.CPC.cookie.2028.Title.01">In Need of a Little Comfort</string>
@@ -28652,9 +28867,8 @@ WE\'RE DOOMED!!!</string>
   <string name="$UX.CPC.cookie.2028.Title.03">Finally, A Sign of Approval</string>
   <string name="$UX.CPC.cookie.2028.Title.01.Summary">First Salt Cookie and First Sugar Cookie want their room to feel a little cozier. They decide to call on Herb Cookie to find just the right plant to set the mood!</string>
   <string name="$UX.CPC.cookie.2028.Title.02.Summary">Herb Cookies returns with carefully chosen plant after plant... after plant... Each one is promptly turned down for one reason or the other.</string>
-  <string name="$UX.CPC.cookie.2028.Title.03.Summary">After much deliberation, Herb Cookie arrives with a black rose and a pink rose. For once, both First Salt Cookie and First Sugar Cookie are completely won over. Each rose finds its perfect spot in their room, and all is right in the world!</string>
-  <string name="$UX.CPC.cookie.2028.Illust.Dialog.01">The verdict is in...
-Your roses have more than
+  <string name="$UX.CPC.cookie.2028.Title.03.Summary">After much deliberation, Herb Cookie arrives with black and pink roses. For once, both First Salt Cookie and First Sugar Cookie are completely won over. Each bouquet of roses finds a perfect spot in their room, and all is right in the world!</string>
+  <string name="$UX.CPC.cookie.2028.Illust.Dialog.01">Your roses have more than
 earned their place here.</string>
   <string name="$UX.CPC.cookie.2028.Illust.Dialog.02">Woohoo! I just knew
 today was going to
@@ -28685,14 +28899,14 @@ be a wonderful day!</string>
   <string name="$Script_PuzzleChallenge_Cookie2028_2_POR1_12">Oh... Finding the right plant isn\'t easy at all...</string>
   <string name="$Script_PuzzleChallenge_Cookie2028_2_POR1_13">No need to get upset!</string>
   <string name="$Script_PuzzleChallenge_Cookie2028_2_POR1_14">Take your choices with a grain of salt and think them over. There must be a suitable alternative.</string>
-  <string name="$Script_PuzzleChallenge_Cookie2028_2_POR1_15">Oh! Wait just a moment! There\'s one more plant I just thought of!
-A new bloom opened just today!</string>
+  <string name="$Script_PuzzleChallenge_Cookie2028_2_POR1_15">Oh! Wait just a moment! There\'s one more plant I thought of!
+Some flowers bloomed just this morning!</string>
   <string name="$Script_PuzzleChallenge_Cookie2028_3_POR1_1">I\'m really confident about these! They\'re definitely the ones that will make your room shine!</string>
-  <string name="$Script_PuzzleChallenge_Cookie2028_3_POR1_2">Wow! A pink rose in a silver vase! Just look at that radiant shine.</string>
+  <string name="$Script_PuzzleChallenge_Cookie2028_3_POR1_2">Wow! Pink roses in silver teacups! Just look at that radiant shine.</string>
   <string name="$Script_PuzzleChallenge_Cookie2028_3_POR1_3">Yes! The shining silver complements your room very well! And the scent...! It\'s very gentle, right? I\'m sure it\'ll help you relax.</string>
   <string name="$Script_PuzzleChallenge_Cookie2028_3_POR1_4">A rose like this could make the memories of even the most dreadful of trials fade away completely! I love it!</string>
-  <string name="$Script_PuzzleChallenge_Cookie2028_3_POR1_5">... A black rose for the nightstand. Steadfast and unwavering.</string>
-  <string name="$Script_PuzzleChallenge_Cookie2028_3_POR1_6">It\'s bloomed into a strong and healthy flower! It suits the room\'s darker tones nicely, don\'t you think?</string>
+  <string name="$Script_PuzzleChallenge_Cookie2028_3_POR1_5">... Black roses for the nightstand. Steadfast and unwavering.</string>
+  <string name="$Script_PuzzleChallenge_Cookie2028_3_POR1_6">Both have bloomed into strong and healthy flowers! They suit the room\'s darker tones nicely, don\'t you think?</string>
   <string name="$Script_PuzzleChallenge_Cookie2028_3_POR1_7">This shade of black will cast the most honest of shadows.</string>
   <string name="$Script_PuzzleChallenge_Cookie2028_3_POR1_8">The verdict is in... Herb Cookie, your roses have more than earned their place in this room.</string>
   <string name="$Script_PuzzleChallenge_Cookie2028_3_POR1_9">Does this mean they\'ve passed? Woohoo! I just knew today was going to be a wonderful day!</string>
@@ -28731,7 +28945,7 @@ A new bloom opened just today!</string>
   <string name="$item.Deco.CookieRoom.cookie2028_2029.Floor.008.Story">A typical black footstool. It serves its purpose.</string>
   <string name="$item.Deco.CookieRoom.cookie2028_2029.Floor.009.Story">A typical pink footstool. It serves its purpose.</string>
   <string name="$item.Deco.CookieRoom.cookie2028_2029.Hanger.002.Story">A collection of black and white stamps, framed up and displayed. Let\'s place it here and there.</string>
-  <string name="$item.Deco.CookieRoom.cookie2028_2029.Floor.010.Story">A black rose displayed on a nightstand. What a lucky find!</string>
+  <string name="$item.Deco.CookieRoom.cookie2028_2029.Floor.010.Story">Black roses displayed on a nightstand. What a lucky find!</string>
   <string name="$Room.Cookie.2028_2029">First Salt Cookie &amp; First Sugar Cookie\'s Room of Firm Justice and Graceful Mercy</string>
   <string name="$Room.Cookie.2028_2029.Story">Tucked cozily beside the Court of Judgment, this room is where the silence after the verdict settles in. Beneath a shimmering salt shaker chandelier, the weight of every ruling gives way to a well-earned rest. With honored judgments and a gleaming set of scales looking on, the two Cookies dream of another fair and just tomorrow.</string>
   <string name="$Item.CookieItem.cookie2028.001">Chained Salt Shaker Hat</string>
@@ -28950,7 +29164,7 @@ emotions to get
 the better of you.</string>
   <string name="$Cookie.2028.Monologue.Greeting">{0}...
 You\'re not on trial, are you?</string>
-  <string name="$Cookie.2029.Story">As the rising sunlight poured over a gleaming jar of sugar, a Cookie stirred awake among the sparkling crystals. First Sugar Cookie, always wearing a bright smile, is known as a warmhearted mediator who weighs the goodwill in others. She believes a measure of mercy is essential when delivering justice, having never forgotten a certain cruel trial from long ago. However, when a criminal has truly abandoned all goodness, she flings open the isolation ward\'s doors without a moment\'s hesitation, faster than even her twin sister.
+  <string name="$Cookie.2029.Story">As the rising sunlight poured over a gleaming jar of sugar, a Cookie stirred awake among the sparkling crystals. First Sugar Cookie, always wearing a bright smile, is known as a warmhearted mediator who weighs the goodwill in others. She believes a measure of mercy is essential when delivering justice, having never forgotten a certain cruel trial from long ago. However, when a criminal has truly abandoned all goodness, she flings open the isolation ward\'s doors without a moment\'s hesitation, faster than her sister.
 
 Both sweet and unyielding, much like sugar itself, she never fails to put every Cookie in her courtroom just a little on edge... Seeing this, she flashes her signature sunlit smile as she prepares for a new day. And in that smile, Cookies in the court find the same quiet reassurance: no good deed goes forgotten.</string>
   <string name="$Cookie.2029.Monologue.Get">Hello! Ready to prove
@@ -28975,13 +29189,17 @@ stop doing bad things...</string>
 I\'ve been waiting!
 Wanna piece of candy?</string>
   <string name="$Cookie.2028.Skill.Name">The Weight of Sin</string>
-  <string name="$2028.SubSkill.text">Cookie Booster!</string>
+  <string name="$cookie2028.SubSkill.text">Cookie Booster!</string>
   <string name="$cookie2028.SubSkill.Name">{1}% chance to create {2} Cookie {2:sp:Booster/Boosters} every {0} {0:sp:turn/turns}</string>
   <string name="$UX.Cookie.SubSkill.Cookie2028">+5% Chance</string>
-  <string name="$Ingame.Tutorial.ScaleVault1">Remove Jellies near the jars to collect crystals and open the safe!</string>
-  <string name="$Ingame.Tutorial.ScaleVault2">Remove Jellies near the open safes to obtain scales!</string>
+  <string name="$Ingame.Tutorial.ScaleVault1">Remove Jellies near the
+jars to collect crystals
+and open the safe!</string>
+  <string name="$Ingame.Tutorial.ScaleVault2">Remove Jellies near
+the open safes to
+obtain scales!</string>
   <string name="$Cookie.2029.Skill.Name">The Levity of Benevolence</string>
-  <string name="$cookie.2029.SubSkill.text">Cookie Booster!</string>
+  <string name="$cookie2029.SubSkill.text">Hits gimmicks!</string>
   <string name="$cookie2029.SubSkill.Name">{0}% chance to hit {1} random {1:sp:gimmick/gimmicks} within a {2}-tile area at the start of a puzzle</string>
   <string name="$UX.Cookie.SubSkill.Cookie2029">{0}% chance to hit {1} random {1:sp:gimmick/gimmicks} within a {2}-tile area at the start of a puzzle</string>
   <string name="$Script_OneMillionDoors.CookieInfo.Name.CK_npc0014">Flunked Pilgrim</string>
@@ -29700,9 +29918,9 @@ Caramel Arrow Cookie</string>
   <string name="$Script_OneMillionDoors.Timekeeper.Opening01">Tick-tock, tick-tock...
 DING!</string>
   <string name="$Script_OneMillionDoors.Timekeeper.Opening02">Well, well! I knew you\'d eventually find your way here. Where do you want to go? The past or the future?</string>
-  <string name="$Script_OneMillionDoors.Timekeeper.Opening03">Whatever your choice, it might not be the timeline you know, or the timeline you\'re supposed to know!</string>
-  <string name="$Script_OneMillionDoors.Timekeeper.Ending01">And that\'s that! I suppose this is a good place to end. Come back again if you\'re curious about more timelines!</string>
-  <string name="$Script_OneMillionDoors.Timekeeper.Ending02">There\'s more than one world out there, you know. Who\'s to say this is even the moment you were supposed to be looking for...?</string>
+  <string name="$Script_OneMillionDoors.Timekeeper.Opening03">But it might not be the timeline you know, or the timeline you\'re supposed to know! How fun!</string>
+  <string name="$Script_OneMillionDoors.Timekeeper.Ending01">And that\'s that! This is a good place to end. Come back if you\'re curious about more timelines!</string>
+  <string name="$Script_OneMillionDoors.Timekeeper.Ending02">There\'s more than one world out there, you know. Who\'s to say this is the moment you\'re supposed to be looking for...?</string>
   <string name="$Item.Profile.OneMillionDoors01">One Million Doors: Expert</string>
   <string name="$Item.Frame.OneMillionDoors01">One Million Doors: Expert</string>
   <string name="$UX.OneMillionDoors.Lobby.Icon.Name">One Million
@@ -29738,7 +29956,7 @@ The game will restart to apply the latest info.</string>
   <string name="$Script_OneMillionDoors.CrystalCoupon.MailTitle13">[One Million Doors] CookieRun: Tower of Adventures Crystal Coupon (1,500)</string>
   <string name="$Script_OneMillionDoors.CrystalCoupon.MailTitle14">[One Million Doors] CookieRun: Tower of Adventures Crystal Coupon (2,000)</string>
   <string name="$Script_OneMillionDoors.CrystalCoupon.MailTitle15">[One Million Doors] CookieRun: Tower of Adventures Crystal Coupon (3,000)</string>
-  <string name="$UX.OneMillionDoors.FinalDoor.BubbleText"></string>
+  <string name="$UX.OneMillionDoors.FinalDoor.BubbleText">Final Door opened!</string>
   <string name="$UX.OneMillionDoors.MiniGame.FindDifference.Result01">You haven\'t found every picture yet.
 Are you sure you want to quit?</string>
   <string name="$UX.OneMillionDoors.SpecialReward.physical.prize.Title01">Wow! You found a prize behind the door!</string>
@@ -29751,7 +29969,120 @@ Are you sure you want to quit?</string>
   <string name="$UX.OneMillionDoors.EventList.Share.Popup05">(Copy Location.)</string>
   <string name="$UX.OneMillionDoors.Reward.Title01">The Witch\'s One Million Doors</string>
   <string name="$UX.OneMillionDoors.SectionList.Title02">One Million Doors</string>
-  <string name="$Error.Popup.code.5001"></string>
-  <string name="$Error.Popup.code.5002"></string>
-  <string name="$Error.Popup.code.5003"></string>
+  <string name="$Error.Popup.code.5001">Another explorer has
+already been here.
+Find a new door!</string>
+  <string name="$Error.Popup.code.5002">All slots are full!
+Try next time!</string>
+  <string name="$Error.Popup.code.5003">Another explorer has
+already been here.
+Find a new door!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_50">Wow...! So this is where crimes are put on trial... The Court of Judgment!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_51">I\'ve read there is a special scale here that weighs the gravity of every crime and always gives a fair verdict.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_52">Sounds like fun! Let\'s go inside and check it out!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_53">Hey, look over there...! There\'s a crowd of Cookies in front of the courthouse... I wonder what\'s going on?</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_54">...</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_55">Choco Gold Cookie. You\'ve been lending gold coins to Cookies in need.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_56">However, these loans charged excessive interest. Predatory contracts, each and every one.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_57">Every last one of those was agreed upon in writing! I have never broken a single law! Not a single one!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_58">The defendant shall remain silent! We are in the middle of the final verdict! This is a fair and just ruling, and everything has already been taken into account!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_59">Yes, yes... Every contract was carried out exactly as written. That part is beyond dispute!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_60">However, those contracts were signed by Cookies in extreme, dire circumstances who had no choice but to accept the terms. Your terms... which were excessive and deeply unfair.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_61">The contracts were deliberately written with terms and language to trap Cookies in perpetual hardship, while ensuring that you, the lender, walked away with unjust gain.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_62">What?! No, no! I was helping them with GOOD intentions! There are plenty of Cookies who escaped their circumstances and succeeded because I lent them my gold coins!!!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_63">SILENCE! Any further disruption and you will be held in contempt of court!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_64">Your Honors! This is a smear campaign born from... from jealousy! I am innocent! If I am acquitted, I swear to make a generous donation to this court!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_65">Aw, how nice. But there\'s no need for that, so don\'t you worry! In the Court of Judgment, none shall suffer injustice! No one walks away with a sentence they don\'t deserve.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_66">The Scale of Good and Evil will weigh everything, every right and wrong, and the true gravity of your crimes!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_67">Bias, misplaced emotions, lies, manipulation... Such trivial factors do not hold any sway in this courtroom.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_68">All will be judged by the Scales...</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_69">And the verdict is...</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_70">Right! Bailiff! Take the convicted to the Sugar Glass Dome for confinement!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_71">Right away!</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_72">Your Honors. Let us please proceed with the next verdict.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_73">...</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_74">Roasted Salt Cookie. You are practicing medicine without a license, and caused injury in the process.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_75">But the Cookie in question was in a critical state, weren\'t they? Had Roasted Salt Cookie not stepped in and taken action, the patient\'s life would\'ve been at risk.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_76">Even so, there may have been a Cookie better suited to provide care. Had they been taken to a proper clinic, the unfortunate incident may never have happened.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_77">No matter how urgent the situation, an ill-fitted intervention can give rise to an even greater degree of harm.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_78">And yet...! The Cookies who have received treatment before are all grateful to Roasted Salt Cookie.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_79">In a case like this... we need to weigh the ripple effects the verdict itself may have on Cookies everywhere.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_80">With all of that taken into account, the Scale of Good and Evil will render its judgment.</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_81">All will be judged by the Scales... And the verdict is...</string>
+  <string name="$Script_SAGA06_CH1_SQ1_POR1_82">Innocent. However, there are some conditions.</string>
+  <string name="$Script_SAGA06_CH1_SQ3_POR1_33">But it is also their
+clumsiness that has
+disrupted an important trial.</string>
+  <string name="$Script_SAGA06_CH2_SQ2_POR1_36">Warning! Anomalous energy reading detected from defendant. Initiate search protocols. Proceeding with precision scan...</string>
+  <string name="$Script_SAGA06_CH2_SQ2_POR1_37">Anomaly detected. Item of unknown origins among belongings. Scanning... Description: Winged egg with active magical energy signature.</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_23">WHAM!</string>
+  <string name="$Script_SAGA06_CH2_SQ4_CUT1_24">WHAM!</string>
+  <string name="$Script_SAGA06_CH3_SQ1_POR1_30">WHAM!</string>
+  <string name="$Script_SAGA06_CH3_SQ1_POR1_31">WHAM!
+*CRACK*</string>
+  <string name="$Script_SAGA06_CH3_SQ1_POR1_32">WHAAAM!
+*CRACK, CRACK...*</string>
+  <string name="$Script_SAGA06_CH3_SQ1_POR1_33">WHAAAAAAM!
+*CRSSHHH!!!*</string>
+  <string name="$Script_SAGA06_CH3_SQ1_POR1_24">Urgh... Mine too...! Everything is... spinning!!!</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_31">... only the endless process
+of finding our way forward
+through eternal conflict.</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_32">The scale is a tool built to
+find one correct answer...
+But it\'s powerless before
+a problem like this.</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_33">We choose to no longer
+permit you to drive
+Cookies into harm\'s way.</string>
+  <string name="$Script_SAGA06_CH3_SQ4_CUT1_34">For until this trial reconvenes,
+perhaps even an eternity later,
+you will be locked away.</string>
+  <string name="$UX.OneMillionDoors.Ranking.Mark.Me">Me</string>
+  <string name="$UX.DevNowEvent.DevTitle">DEVSISTERS</string>
+  <string name="$UX.DevNowEvent.Title">DevNow 2026</string>
+  <string name="$UX.DevNowEvent.SubTitle">CookieRun: The Future and Beyond</string>
+  <string name="$UX.DevNowEvent.BubbleText">Watch the DevNow livestream
+and beat 10 puzzles for a
+chance to win prizes!</string>
+  <string name="$UX.DevNowEvent.Rank01">1st</string>
+  <string name="$UX.DevNowEvent.Reward01">iPad Air 11 Wi-Fi (3 Winners)</string>
+  <string name="$UX.DevNowEvent.Rank02">2nd</string>
+  <string name="$UX.DevNowEvent.Reward02">Diorama Stand (5 Winners)</string>
+  <string name="$UX.DevNowEvent.Rank03">3rd</string>
+  <string name="$UX.DevNowEvent.Reward03">x1,000 (50 Winners)</string>
+  <string name="$UX.DevNowEvent.Rank04">4th</string>
+  <string name="$UX.DevNowEvent.Reward04">x500 (100 Winners)</string>
+  <string name="$UX.DevNowEvent.Rank05">5th</string>
+  <string name="$UX.DevNowEvent.Reward05">x 5,000 (500 Winners)</string>
+  <string name="$UX.DevNowEvent.EventDay">- Entry Period: March 21- April 17 (GMT+9)</string>
+  <string name="$UX.DevNowEvent.GuideLink">You can check out more detailed info at the DevNow webpage.</string>
+  <string name="$UX.DevNowEvent.GuideLinkBtn">Link</string>
+  <string name="$UX.DevNowEvent.Mission.Title">Bonus Mission: Beat Puzzles ({0}/{1})</string>
+  <string name="$UX.DevNowEvent.ApplyConditon">Raffle Conditions</string>
+  <string name="$UX.DevNowEvent.Mission.Conditioln">Beat Puzzles</string>
+  <string name="$UX.DevNowEvent.MissionCount">{0}/{1}</string>
+  <string name="$UX.DevNowEvent.InfoMsg">You haven\'t met the entry conditions yet!
+(Remaining Conditions: Beat {0} {0:sp:puzzle/puzzles})</string>
+  <string name="$UX.DevNowEvent.SuccessMsg">Your entry into the raffle has been successfully submitted!
+Please wait for the winners announcement!</string>
+  <string name="$UX.OneMillionDoors.FinalDoor.Toast.Popup04">Complete the mission!</string>
+  <string name="$UX.OneMillionDoors.FinalDoor.Credit.Desc05">No record of participating yet!</string>
+  <string name="$UX.DevNowEvent.ButtonClear">Entry Complete!</string>
+  <string name="$UX.DevNowEvent.YoutubeLink">To DevNow 2026</string>
+  <string name="$UX.OneMillionDoors.Exchange.Button">Key Exchange</string>
+  <string name="$UX.OneMillionDoors.Exchange.InfotTxt">Exchange remaining Bronze Keys for &lt;color=#FCFF0B&gt;Silver&lt;/color&gt; &amp; &lt;color=#FCFF0B&gt;Gold&lt;/color&gt; Keys &lt;color=#FCFF0B&gt; to open this door&lt;/color&gt;?</string>
+  <string name="$UX.OneMillionDoors.Exchange.SilverKeyTitle">Exchange for Silver Keys!</string>
+  <string name="$UX.OneMillionDoors.Exchange.GoldKeyTitle">Exchange for Gold Keys!</string>
+  <string name="$UX.OneMillionDoors.Exchange.Enable.Count">{0}/{1} Exchangeable</string>
+  <string name="$UX.OneMillionDoors.Exchange.SoldOut">SOLD OUT</string>
+  <string name="$UX.OneMillionDoors.Exchange.Toast01">Not enough Bronze Keys!</string>
+  <string name="$UX.OneMillionDoors.Exchange.Toast02">All Silver Keys exchanged!
+(Resets in: {0}H {1}M)</string>
+  <string name="$UX.OneMillionDoors.Exchange.Toast03">All Gold Keys exchanged!
+(Resets in: {0}H {1}M)</string>
+  <string name="$UX.OneMillionDoors.FinalDoor.Story.Popup01">Final Door\'s Story</string>
+  <string name="$UX.OneMillionDoors.FinalDoor.Story.Popup02">Are you sure you want to quit the current story and leave?</string>
+  <string name="$UX.OneMillionDoors.Lobby.Icon.Name02">Key Pack</string>
+  <string name="$UX.Shop.Package.OnePlusOne06">One Million Doors Pack</string>
 </resources>
